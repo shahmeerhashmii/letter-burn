@@ -1,0 +1,138 @@
+.surface {
+  background-color: var(--surface);
+  border: 1px solid #3a4150;
+}
+.card {
+  background-color: var(--card);
+  border: 1px solid #3a4150;
+  border-radius: 4px;
+}
+.text-flame {
+  color: var(--flame);
+}
+.text-ember {
+  color: var(--ember);
+}
+.text-ok {
+  color: var(--ok);
+}
+.text-warn {
+  color: var(--warn);
+}
+.bg-flame {
+  background-color: var(--flame);
+  color: #111;
+}
+.bg-ash {
+  background-color: var(--ash);
+}
+.font-display {
+  font-family: var(--font-display);
+}
+
+.tile {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid #3a4150;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text);
+  user-select: none;
+}
+.tile.available {
+  background-color: var(--surface);
+  color: var(--text);
+}
+.tile.burned {
+  background-color: var(--ash);
+  color: #6e7380;
+}
+.tile.burned .char {
+  opacity: 0.5;
+}
+.tile.burning {
+  animation: burn 0.45s ease-out both;
+}
+.tile.saved {
+  background-color: var(--card);
+  color: var(--text);
+}
+
+@keyframes burn {
+  0% {
+    background-color: var(--flame);
+    color: #111;
+    box-shadow: 0 0 12px rgba(255, 140, 66, 0.6);
+  }
+  40% {
+    background-color: var(--flame);
+    color: #111;
+  }
+  100% {
+    background-color: var(--ash);
+    color: #6e7380;
+    box-shadow: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tile.burning {
+    animation: none;
+  }
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid var(--ember);
+  outline-offset: 2px;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-weight: 600;
+  padding: 8px 16px;
+  min-height: 44px;
+}
+.button-primary {
+  background-color: var(--flame);
+  color: #111;
+}
+.button-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.button-text {
+  color: var(--ember);
+  padding: 6px 0;
+}
+
+.input {
+  width: 100%;
+  min-height: 44px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #3a4150;
+  background-color: var(--card);
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: 24px;
+  text-transform: uppercase;
+}
+.input:focus {
+  outline: 2px solid var(--ember);
+  border-color: transparent;
+}
+
+.screen {
+  padding: 16px;
+  max-width: 640px;
+  margin: 0 auto;
+}
