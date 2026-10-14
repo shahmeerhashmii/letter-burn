@@ -1,0 +1,5 @@
+{
+  "2026-10-19": { "number": 1, "prompts": ["animal", "food", "clothing", "beach_item", "flies"] },
+  "2026-10-20": { "number": 2, "prompts": ["fruit", "drink", "furniture", "vehicle", "weather"] },
+  "2026-10-21": { "number": 3, "prompts": ["clothing", "footwear", "headwear", "toy", "sport"] }
+}

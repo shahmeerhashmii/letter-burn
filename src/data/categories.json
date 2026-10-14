@@ -1,0 +1,17 @@
+[
+  { "id": "animal", "prompt": "Name an animal", "note": "Any creature, wild or domestic." },
+  { "id": "food", "prompt": "Name something edible", "note": "Food or drink." },
+  { "id": "clothing", "prompt": "Name something you wear", "note": "Clothes or accessories." },
+  { "id": "beach_item", "prompt": "Name something you take to the beach", "note": "Gear for the seaside." },
+  { "id": "flies", "prompt": "Name something that can fly", "note": "Birds, insects, aircraft, kites. Not 'time'." },
+  { "id": "vehicle", "prompt": "Name a vehicle", "note": "Something that carries people or goods." },
+  { "id": "fruit", "prompt": "Name a fruit", "note": "Sweet plant food." },
+  { "id": "drink", "prompt": "Name a drink", "note": "Something you drink." },
+  { "id": "furniture", "prompt": "Name a piece of furniture", "note": "Items for a room." },
+  { "id": "sport", "prompt": "Name a sport or game item", "note": "Equipment used in sport." },
+  { "id": "weather", "prompt": "Name a weather type", "note": "Sun, rain, snow, wind." },
+  { "id": "tool", "prompt": "Name a tool", "note": "Hand tool." },
+  { "id": "toy", "prompt": "Name a toy", "note": "Something to play with." },
+  { "id": "footwear", "prompt": "Name footwear", "note": "Something worn on the feet." },
+  { "id": "headwear", "prompt": "Name headwear", "note": "Something worn on the head." }
+]
