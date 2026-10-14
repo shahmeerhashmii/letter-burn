@@ -1,0 +1,402 @@
+[
+  {
+    "prompts": [
+      "electronic",
+      "jewelry",
+      "bird",
+      "food",
+      "cleaning_tool"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "pet",
+      "hobby",
+      "place",
+      "action",
+      "activity"
+    ],
+    "par": 585
+  },
+  {
+    "prompts": [
+      "drink",
+      "profession",
+      "dairy",
+      "shape",
+      "mammal"
+    ],
+    "par": 555
+  },
+  {
+    "prompts": [
+      "grain",
+      "drink",
+      "food",
+      "weather",
+      "fruit"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "building",
+      "place",
+      "cleaning_tool",
+      "flies",
+      "season"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "store",
+      "toy",
+      "animal",
+      "sport_equipment",
+      "pet"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "clothing",
+      "electronic",
+      "pet",
+      "room",
+      "mammal"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "color",
+      "food",
+      "electronic",
+      "drink",
+      "activity"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "bird",
+      "drink",
+      "activity",
+      "body_part",
+      "meat"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "action",
+      "outerwear",
+      "insect",
+      "activity",
+      "vegetable"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "weather",
+      "body_part",
+      "hobby",
+      "game",
+      "activity"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "vegetable",
+      "mammal",
+      "season",
+      "building",
+      "store"
+    ],
+    "par": 555
+  },
+  {
+    "prompts": [
+      "season",
+      "electronic",
+      "building",
+      "job",
+      "place"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "building",
+      "mammal",
+      "dessert",
+      "flies",
+      "insect"
+    ],
+    "par": 575
+  },
+  {
+    "prompts": [
+      "fish",
+      "cleaning_tool",
+      "animal",
+      "fruit",
+      "musical_instrument"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "country",
+      "store",
+      "breakfast",
+      "animal",
+      "mammal"
+    ],
+    "par": 540
+  },
+  {
+    "prompts": [
+      "body_part",
+      "food",
+      "dairy",
+      "furniture",
+      "drink"
+    ],
+    "par": 580
+  },
+  {
+    "prompts": [
+      "weather",
+      "hobby",
+      "vehicle",
+      "toy",
+      "animal"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "electronic",
+      "flies",
+      "mammal",
+      "color",
+      "insect"
+    ],
+    "par": 575
+  },
+  {
+    "prompts": [
+      "meat",
+      "place",
+      "job",
+      "activity",
+      "clothing"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "flies",
+      "furniture",
+      "grain",
+      "fruit",
+      "insect"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "flies",
+      "activity",
+      "appliance",
+      "headwear",
+      "kitchen_item"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "pet",
+      "drink",
+      "body_part",
+      "bird",
+      "breakfast"
+    ],
+    "par": 575
+  },
+  {
+    "prompts": [
+      "mammal",
+      "animal",
+      "drink",
+      "fruit",
+      "cleaning_tool"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "clothing",
+      "building",
+      "accessory",
+      "sport",
+      "country"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "flies",
+      "store",
+      "meat",
+      "building",
+      "snack"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "vehicle",
+      "fish",
+      "place",
+      "activity",
+      "meat"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "food",
+      "store",
+      "action",
+      "vegetable",
+      "sport_equipment"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "sport",
+      "footwear",
+      "building",
+      "mammal",
+      "place"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "activity",
+      "fish",
+      "store",
+      "spice",
+      "place"
+    ],
+    "par": 580
+  },
+  {
+    "prompts": [
+      "bird",
+      "toy",
+      "vehicle",
+      "pet",
+      "flies"
+    ],
+    "par": 585
+  },
+  {
+    "prompts": [
+      "seafood",
+      "clothing",
+      "kitchen_item",
+      "weather",
+      "flies"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "profession",
+      "job",
+      "toy",
+      "fruit",
+      "building"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "musical_instrument",
+      "fish",
+      "kitchen_item",
+      "toy",
+      "activity"
+    ],
+    "par": 565
+  },
+  {
+    "prompts": [
+      "sport",
+      "electronic",
+      "clothing",
+      "animal",
+      "activity"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "mammal",
+      "cleaning_tool",
+      "sport_equipment",
+      "vegetable",
+      "appliance"
+    ],
+    "par": 560
+  },
+  {
+    "prompts": [
+      "kitchen_item",
+      "toy",
+      "sport_equipment",
+      "accessory",
+      "place"
+    ],
+    "par": 575
+  },
+  {
+    "prompts": [
+      "store",
+      "kitchen_item",
+      "sport",
+      "weather",
+      "toy"
+    ],
+    "par": 555
+  },
+  {
+    "prompts": [
+      "food",
+      "sport_equipment",
+      "vehicle",
+      "sport",
+      "mammal"
+    ],
+    "par": 570
+  },
+  {
+    "prompts": [
+      "animal",
+      "bird",
+      "fruit",
+      "insect",
+      "country"
+    ],
+    "par": 570
+  }
+]

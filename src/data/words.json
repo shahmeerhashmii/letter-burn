@@ -1,45 +1,3712 @@
 {
-  "apple": { "display": "Apple", "tags": ["fruit", "food"] },
-  "pear": { "display": "Pear", "tags": ["fruit", "food"] },
-  "fish": { "display": "Fish", "tags": ["animal", "food", "sea_creature"] },
-  "bee": { "display": "Bee", "tags": ["animal", "insect", "flies"] },
-  "cap": { "display": "Cap", "tags": ["clothing", "headwear"] },
-  "shoe": { "display": "Shoe", "tags": ["clothing", "footwear"] },
-  "hat": { "display": "Hat", "tags": ["clothing", "headwear"] },
-  "kite": { "display": "Kite", "tags": ["flies", "toy"] },
-  "bird": { "display": "Bird", "tags": ["animal", "flies"] },
-  "plane": { "display": "Plane", "tags": ["flies", "vehicle"] },
-  "boat": { "display": "Boat", "tags": ["vehicle", "beach_item"] },
-  "car": { "display": "Car", "tags": ["vehicle"] },
-  "bus": { "display": "Bus", "tags": ["vehicle"] },
-  "train": { "display": "Train", "tags": ["vehicle"] },
-  "ice cream": { "display": "Ice cream", "tags": ["food", "dessert", "cold_thing", "beach_item"], "variants": ["icecream", "ice-cream"] },
-  "cake": { "display": "Cake", "tags": ["food", "dessert"] },
-  "pie": { "display": "Pie", "tags": ["food", "dessert"] },
-  "bread": { "display": "Bread", "tags": ["food"] },
-  "milk": { "display": "Milk", "tags": ["food", "drink"] },
-  "tea": { "display": "Tea", "tags": ["drink"] },
-  "coffee": { "display": "Coffee", "tags": ["drink"] },
-  "chair": { "display": "Chair", "tags": ["furniture"] },
-  "table": { "display": "Table", "tags": ["furniture"] },
-  "lamp": { "display": "Lamp", "tags": ["furniture"] },
-  "ball": { "display": "Ball", "tags": ["sport", "toy"] },
-  "bat": { "display": "Bat", "tags": ["sport", "animal", "flies"] },
-  "glove": { "display": "Glove", "tags": ["clothing", "sport"] },
-  "boot": { "display": "Boot", "tags": ["clothing", "footwear"] },
-  "sock": { "display": "Sock", "tags": ["clothing"] },
-  "scarf": { "display": "Scarf", "tags": ["clothing"] },
-  "coat": { "display": "Coat", "tags": ["clothing"] },
-  "jeans": { "display": "Jeans", "tags": ["clothing"] },
-  "shirt": { "display": "Shirt", "tags": ["clothing"] },
-  "dress": { "display": "Dress", "tags": ["clothing"] },
-  "towel": { "display": "Towel", "tags": ["beach_item"] },
-  "bucket": { "display": "Bucket", "tags": ["beach_item", "tool"] },
-  "spade": { "display": "Spade", "tags": ["beach_item", "tool"] },
-  "sun": { "display": "Sun", "tags": ["weather"] },
-  "rain": { "display": "Rain", "tags": ["weather"] },
-  "snow": { "display": "Snow", "tags": ["weather"] },
-  "wind": { "display": "Wind", "tags": ["weather", "flies"] },
-  "cloud": { "display": "Cloud", "tags": ["weather", "flies"] },
-  "desk": { "display": "Desk", "tags": ["furniture"] }
+  "accountant": {
+    "display": "Accountant",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "actor": {
+    "display": "Actor",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "airport": {
+    "display": "Airport",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "ant": {
+    "display": "Ant",
+    "tags": [
+      "animal",
+      "insect"
+    ]
+  },
+  "apple": {
+    "display": "Apple",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "apricot": {
+    "display": "Apricot",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "architect": {
+    "display": "Architect",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "arm": {
+    "display": "Arm",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "artichoke": {
+    "display": "Artichoke",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "artist": {
+    "display": "Artist",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "asparagus": {
+    "display": "Asparagus",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "athlete": {
+    "display": "Athlete",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "attic": {
+    "display": "Attic",
+    "tags": [
+      "room"
+    ]
+  },
+  "australia": {
+    "display": "Australia",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "autumn": {
+    "display": "Autumn",
+    "tags": [
+      "season"
+    ]
+  },
+  "avocado": {
+    "display": "Avocado",
+    "tags": [
+      "fruit",
+      "food",
+      "vegetable"
+    ]
+  },
+  "back": {
+    "display": "Back",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "backpack": {
+    "display": "Backpack",
+    "tags": [
+      "luggage",
+      "accessory"
+    ]
+  },
+  "bacon": {
+    "display": "Bacon",
+    "tags": [
+      "food",
+      "meat",
+      "breakfast"
+    ]
+  },
+  "bag": {
+    "display": "Bag",
+    "tags": [
+      "accessory",
+      "luggage"
+    ]
+  },
+  "baker": {
+    "display": "Baker",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "bakery": {
+    "display": "Bakery",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "balcony": {
+    "display": "Balcony",
+    "tags": [
+      "room"
+    ]
+  },
+  "ball": {
+    "display": "Ball",
+    "tags": [
+      "sport",
+      "sport_equipment",
+      "toy"
+    ]
+  },
+  "banana": {
+    "display": "Banana",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "banjo": {
+    "display": "Banjo",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "bank": {
+    "display": "Bank",
+    "tags": [
+      "building",
+      "place",
+      "store"
+    ]
+  },
+  "baseball": {
+    "display": "Baseball",
+    "tags": [
+      "sport"
+    ]
+  },
+  "basement": {
+    "display": "Basement",
+    "tags": [
+      "room"
+    ]
+  },
+  "basketball": {
+    "display": "Basketball",
+    "tags": [
+      "sport"
+    ]
+  },
+  "bat": {
+    "display": "Bat",
+    "tags": [
+      "animal",
+      "mammal",
+      "flies",
+      "sport_equipment"
+    ]
+  },
+  "bathroom": {
+    "display": "Bathroom",
+    "tags": [
+      "room"
+    ]
+  },
+  "beach": {
+    "display": "Beach",
+    "tags": [
+      "place"
+    ]
+  },
+  "bean": {
+    "display": "Bean",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "beanie": {
+    "display": "Beanie",
+    "tags": [
+      "headwear"
+    ]
+  },
+  "bear": {
+    "display": "Bear",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "bed": {
+    "display": "Bed",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "bedroom": {
+    "display": "Bedroom",
+    "tags": [
+      "room"
+    ]
+  },
+  "bee": {
+    "display": "Bee",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "beef": {
+    "display": "Beef",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "beer": {
+    "display": "Beer",
+    "tags": [
+      "drink"
+    ]
+  },
+  "beet": {
+    "display": "Beet",
+    "tags": [
+      "vegetable",
+      "food",
+      "color"
+    ]
+  },
+  "beetle": {
+    "display": "Beetle",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "belt": {
+    "display": "Belt",
+    "tags": [
+      "clothing",
+      "accessory"
+    ]
+  },
+  "bench": {
+    "display": "Bench",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "berlin": {
+    "display": "Berlin",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "bike": {
+    "display": "Bike",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "bingo": {
+    "display": "Bingo",
+    "tags": [
+      "game"
+    ]
+  },
+  "black": {
+    "display": "Black",
+    "tags": [
+      "color"
+    ]
+  },
+  "blackberry": {
+    "display": "Blackberry",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "blazer": {
+    "display": "Blazer",
+    "tags": [
+      "clothing",
+      "outerwear"
+    ]
+  },
+  "blender": {
+    "display": "Blender",
+    "tags": [
+      "appliance",
+      "kitchen_item"
+    ]
+  },
+  "blizzard": {
+    "display": "Blizzard",
+    "tags": [
+      "weather"
+    ]
+  },
+  "blouse": {
+    "display": "Blouse",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "blue": {
+    "display": "Blue",
+    "tags": [
+      "color"
+    ]
+  },
+  "blueberry": {
+    "display": "Blueberry",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "board": {
+    "display": "Board",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "boat": {
+    "display": "Boat",
+    "tags": [
+      "vehicle",
+      "beach_item"
+    ]
+  },
+  "bookstore": {
+    "display": "Bookstore",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "boot": {
+    "display": "Boot",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "boutique": {
+    "display": "Boutique",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "bowl": {
+    "display": "Bowl",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "boxing": {
+    "display": "Boxing",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "bracelet": {
+    "display": "Bracelet",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "brazil": {
+    "display": "Brazil",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "bread": {
+    "display": "Bread",
+    "tags": [
+      "food",
+      "grain",
+      "breakfast"
+    ]
+  },
+  "breeze": {
+    "display": "Breeze",
+    "tags": [
+      "weather"
+    ]
+  },
+  "broccoli": {
+    "display": "Broccoli",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "brooch": {
+    "display": "Brooch",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "broom": {
+    "display": "Broom",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "brown": {
+    "display": "Brown",
+    "tags": [
+      "color"
+    ]
+  },
+  "brush": {
+    "display": "Brush",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "bucket": {
+    "display": "Bucket",
+    "tags": [
+      "cleaning_tool",
+      "beach_item"
+    ]
+  },
+  "builder": {
+    "display": "Builder",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "bus": {
+    "display": "Bus",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "butcher": {
+    "display": "Butcher",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "butter": {
+    "display": "Butter",
+    "tags": [
+      "food",
+      "dairy"
+    ]
+  },
+  "butterfly": {
+    "display": "Butterfly",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "cabbage": {
+    "display": "Cabbage",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "cabinet": {
+    "display": "Cabinet",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "cairo": {
+    "display": "Cairo",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "cake": {
+    "display": "Cake",
+    "tags": [
+      "dessert",
+      "food"
+    ]
+  },
+  "camera": {
+    "display": "Camera",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "camp": {
+    "display": "Camp",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "canada": {
+    "display": "Canada",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "candy": {
+    "display": "Candy",
+    "tags": [
+      "snack",
+      "dessert"
+    ]
+  },
+  "cap": {
+    "display": "Cap",
+    "tags": [
+      "clothing",
+      "headwear"
+    ]
+  },
+  "car": {
+    "display": "Car",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "cards": {
+    "display": "Cards",
+    "tags": [
+      "game"
+    ]
+  },
+  "carpenter": {
+    "display": "Carpenter",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "carrot": {
+    "display": "Carrot",
+    "tags": [
+      "vegetable",
+      "food",
+      "color"
+    ]
+  },
+  "cashier": {
+    "display": "Cashier",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "cat": {
+    "display": "Cat",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet"
+    ]
+  },
+  "cauliflower": {
+    "display": "Cauliflower",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "celery": {
+    "display": "Celery",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "chair": {
+    "display": "Chair",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "checkers": {
+    "display": "Checkers",
+    "tags": [
+      "game"
+    ]
+  },
+  "cheese": {
+    "display": "Cheese",
+    "tags": [
+      "food",
+      "dairy"
+    ]
+  },
+  "chef": {
+    "display": "Chef",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "cherry": {
+    "display": "Cherry",
+    "tags": [
+      "fruit",
+      "food",
+      "color"
+    ]
+  },
+  "chess": {
+    "display": "Chess",
+    "tags": [
+      "game"
+    ]
+  },
+  "chest": {
+    "display": "Chest",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "chicken": {
+    "display": "Chicken",
+    "tags": [
+      "animal",
+      "bird",
+      "food",
+      "meat"
+    ]
+  },
+  "chin": {
+    "display": "Chin",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "china": {
+    "display": "China",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "chip": {
+    "display": "Chip",
+    "tags": [
+      "snack"
+    ]
+  },
+  "chocolate": {
+    "display": "Chocolate",
+    "tags": [
+      "snack",
+      "dessert"
+    ]
+  },
+  "church": {
+    "display": "Church",
+    "tags": [
+      "building",
+      "place"
+    ]
+  },
+  "cider": {
+    "display": "Cider",
+    "tags": [
+      "drink"
+    ]
+  },
+  "circle": {
+    "display": "Circle",
+    "tags": [
+      "shape"
+    ]
+  },
+  "clam": {
+    "display": "Clam",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "clean": {
+    "display": "Clean",
+    "tags": [
+      "activity"
+    ]
+  },
+  "clerk": {
+    "display": "Clerk",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "climbing": {
+    "display": "Climbing",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "cloud": {
+    "display": "Cloud",
+    "tags": [
+      "weather",
+      "flies"
+    ]
+  },
+  "club": {
+    "display": "Club",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "coach": {
+    "display": "Coach",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "coat": {
+    "display": "Coat",
+    "tags": [
+      "clothing",
+      "outerwear"
+    ]
+  },
+  "cocoa": {
+    "display": "Cocoa",
+    "tags": [
+      "drink"
+    ]
+  },
+  "coconut": {
+    "display": "Coconut",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "cod": {
+    "display": "Cod",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "coffee": {
+    "display": "Coffee",
+    "tags": [
+      "drink",
+      "breakfast"
+    ]
+  },
+  "computer": {
+    "display": "Computer",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "console": {
+    "display": "Console",
+    "tags": [
+      "electronic",
+      "game"
+    ]
+  },
+  "cook": {
+    "display": "Cook",
+    "tags": [
+      "job",
+      "profession",
+      "activity",
+      "hobby"
+    ]
+  },
+  "cookie": {
+    "display": "Cookie",
+    "tags": [
+      "dessert",
+      "food",
+      "snack"
+    ]
+  },
+  "cooler": {
+    "display": "Cooler",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "corn": {
+    "display": "Corn",
+    "tags": [
+      "vegetable",
+      "grain",
+      "food"
+    ]
+  },
+  "cow": {
+    "display": "Cow",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "crab": {
+    "display": "Crab",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "cracker": {
+    "display": "Cracker",
+    "tags": [
+      "snack"
+    ]
+  },
+  "cranberry": {
+    "display": "Cranberry",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "cricket": {
+    "display": "Cricket",
+    "tags": [
+      "animal",
+      "insect",
+      "flies",
+      "sport"
+    ]
+  },
+  "crow": {
+    "display": "Crow",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "cucumber": {
+    "display": "Cucumber",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "cup": {
+    "display": "Cup",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "cycling": {
+    "display": "Cycling",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "dance": {
+    "display": "Dance",
+    "tags": [
+      "activity",
+      "action",
+      "hobby"
+    ]
+  },
+  "dancer": {
+    "display": "Dancer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "date": {
+    "display": "Date",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "deer": {
+    "display": "Deer",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "desert": {
+    "display": "Desert",
+    "tags": [
+      "place"
+    ]
+  },
+  "designer": {
+    "display": "Designer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "desk": {
+    "display": "Desk",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "diamond": {
+    "display": "Diamond",
+    "tags": [
+      "shape"
+    ]
+  },
+  "dice": {
+    "display": "Dice",
+    "tags": [
+      "game",
+      "toy"
+    ]
+  },
+  "doctor": {
+    "display": "Doctor",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "dog": {
+    "display": "Dog",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet"
+    ]
+  },
+  "doll": {
+    "display": "Doll",
+    "tags": [
+      "toy"
+    ]
+  },
+  "dolphin": {
+    "display": "Dolphin",
+    "tags": [
+      "animal",
+      "mammal",
+      "fish"
+    ]
+  },
+  "dominoes": {
+    "display": "Dominoes",
+    "tags": [
+      "game"
+    ]
+  },
+  "dragonfly": {
+    "display": "Dragonfly",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "draw": {
+    "display": "Draw",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "dress": {
+    "display": "Dress",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "dresser": {
+    "display": "Dresser",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "drink": {
+    "display": "Drink",
+    "tags": [
+      "activity"
+    ]
+  },
+  "driver": {
+    "display": "Driver",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "drizzle": {
+    "display": "Drizzle",
+    "tags": [
+      "weather"
+    ]
+  },
+  "drone": {
+    "display": "Drone",
+    "tags": [
+      "toy",
+      "flies"
+    ]
+  },
+  "drum": {
+    "display": "Drum",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "dryer": {
+    "display": "Dryer",
+    "tags": [
+      "appliance"
+    ]
+  },
+  "dubai": {
+    "display": "Dubai",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "duck": {
+    "display": "Duck",
+    "tags": [
+      "animal",
+      "bird",
+      "flies",
+      "food",
+      "meat"
+    ]
+  },
+  "duster": {
+    "display": "Duster",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "eagle": {
+    "display": "Eagle",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "ear": {
+    "display": "Ear",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "earring": {
+    "display": "Earring",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "eat": {
+    "display": "Eat",
+    "tags": [
+      "activity"
+    ]
+  },
+  "egg": {
+    "display": "Egg",
+    "tags": [
+      "food",
+      "breakfast"
+    ]
+  },
+  "eggplant": {
+    "display": "Eggplant",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "egypt": {
+    "display": "Egypt",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "elbow": {
+    "display": "Elbow",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "electrician": {
+    "display": "Electrician",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "elephant": {
+    "display": "Elephant",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "engineer": {
+    "display": "Engineer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "eye": {
+    "display": "Eye",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "falcon": {
+    "display": "Falcon",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "fall": {
+    "display": "Fall",
+    "tags": [
+      "season"
+    ]
+  },
+  "fan": {
+    "display": "Fan",
+    "tags": [
+      "appliance"
+    ]
+  },
+  "farmer": {
+    "display": "Farmer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "fig": {
+    "display": "Fig",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "finger": {
+    "display": "Finger",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "fins": {
+    "display": "Fins",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "firefighter": {
+    "display": "Firefighter",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "fish": {
+    "display": "Fish",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food",
+      "pet",
+      "activity",
+      "hobby"
+    ]
+  },
+  "flipflops": {
+    "display": "Flipflops",
+    "tags": [
+      "beach_item",
+      "footwear"
+    ]
+  },
+  "flute": {
+    "display": "Flute",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "fly": {
+    "display": "Fly",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "fog": {
+    "display": "Fog",
+    "tags": [
+      "weather"
+    ]
+  },
+  "foot": {
+    "display": "Foot",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "football": {
+    "display": "Football",
+    "tags": [
+      "sport"
+    ]
+  },
+  "forest": {
+    "display": "Forest",
+    "tags": [
+      "place"
+    ]
+  },
+  "fork": {
+    "display": "Fork",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "fox": {
+    "display": "Fox",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "france": {
+    "display": "France",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "fridge": {
+    "display": "Fridge",
+    "tags": [
+      "appliance",
+      "kitchen_item"
+    ]
+  },
+  "frisbee": {
+    "display": "Frisbee",
+    "tags": [
+      "beach_item",
+      "toy",
+      "sport"
+    ]
+  },
+  "frog": {
+    "display": "Frog",
+    "tags": [
+      "animal"
+    ]
+  },
+  "gale": {
+    "display": "Gale",
+    "tags": [
+      "weather"
+    ]
+  },
+  "garage": {
+    "display": "Garage",
+    "tags": [
+      "room"
+    ]
+  },
+  "gardener": {
+    "display": "Gardener",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "garlic": {
+    "display": "Garlic",
+    "tags": [
+      "vegetable",
+      "food",
+      "spice"
+    ]
+  },
+  "germany": {
+    "display": "Germany",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "ginger": {
+    "display": "Ginger",
+    "tags": [
+      "vegetable",
+      "food",
+      "spice"
+    ]
+  },
+  "giraffe": {
+    "display": "Giraffe",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "glass": {
+    "display": "Glass",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "glove": {
+    "display": "Glove",
+    "tags": [
+      "clothing",
+      "sport_equipment"
+    ]
+  },
+  "goat": {
+    "display": "Goat",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "gold": {
+    "display": "Gold",
+    "tags": [
+      "color"
+    ]
+  },
+  "golf": {
+    "display": "Golf",
+    "tags": [
+      "sport"
+    ]
+  },
+  "goose": {
+    "display": "Goose",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "grape": {
+    "display": "Grape",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "grapefruit": {
+    "display": "Grapefruit",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "grater": {
+    "display": "Grater",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "gray": {
+    "display": "Gray",
+    "tags": [
+      "color"
+    ]
+  },
+  "green": {
+    "display": "Green",
+    "tags": [
+      "color"
+    ]
+  },
+  "guitar": {
+    "display": "Guitar",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "hail": {
+    "display": "Hail",
+    "tags": [
+      "weather"
+    ]
+  },
+  "hair": {
+    "display": "Hair",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "hallway": {
+    "display": "Hallway",
+    "tags": [
+      "room"
+    ]
+  },
+  "ham": {
+    "display": "Ham",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "hamster": {
+    "display": "Hamster",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet"
+    ]
+  },
+  "hand": {
+    "display": "Hand",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "harmonica": {
+    "display": "Harmonica",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "harp": {
+    "display": "Harp",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "hat": {
+    "display": "Hat",
+    "tags": [
+      "clothing",
+      "headwear"
+    ]
+  },
+  "hawk": {
+    "display": "Hawk",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "head": {
+    "display": "Head",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "headphones": {
+    "display": "Headphones",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "heart": {
+    "display": "Heart",
+    "tags": [
+      "shape",
+      "body_part"
+    ]
+  },
+  "heater": {
+    "display": "Heater",
+    "tags": [
+      "appliance"
+    ]
+  },
+  "heel": {
+    "display": "Heel",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "helicopter": {
+    "display": "Helicopter",
+    "tags": [
+      "vehicle",
+      "flies"
+    ]
+  },
+  "helmet": {
+    "display": "Helmet",
+    "tags": [
+      "headwear",
+      "sport_equipment"
+    ]
+  },
+  "hike": {
+    "display": "Hike",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "hockey": {
+    "display": "Hockey",
+    "tags": [
+      "sport"
+    ]
+  },
+  "honey": {
+    "display": "Honey",
+    "tags": [
+      "food"
+    ]
+  },
+  "hood": {
+    "display": "Hood",
+    "tags": [
+      "headwear"
+    ]
+  },
+  "horse": {
+    "display": "Horse",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "hospital": {
+    "display": "Hospital",
+    "tags": [
+      "building",
+      "place"
+    ]
+  },
+  "hurricane": {
+    "display": "Hurricane",
+    "tags": [
+      "weather"
+    ]
+  },
+  "ice cream": {
+    "display": "Ice cream",
+    "tags": [
+      "dessert",
+      "food",
+      "cold_thing",
+      "beach_item"
+    ],
+    "variants": [
+      "icecream",
+      "ice-cream"
+    ]
+  },
+  "india": {
+    "display": "India",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "island": {
+    "display": "Island",
+    "tags": [
+      "place"
+    ]
+  },
+  "italy": {
+    "display": "Italy",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "jacket": {
+    "display": "Jacket",
+    "tags": [
+      "clothing",
+      "outerwear"
+    ]
+  },
+  "jam": {
+    "display": "Jam",
+    "tags": [
+      "food"
+    ]
+  },
+  "japan": {
+    "display": "Japan",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "jeans": {
+    "display": "Jeans",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "jog": {
+    "display": "Jog",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "judge": {
+    "display": "Judge",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "juice": {
+    "display": "Juice",
+    "tags": [
+      "drink",
+      "breakfast"
+    ]
+  },
+  "kale": {
+    "display": "Kale",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "kenya": {
+    "display": "Kenya",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "keyboard": {
+    "display": "Keyboard",
+    "tags": [
+      "electronic",
+      "musical_instrument"
+    ]
+  },
+  "keychain": {
+    "display": "Keychain",
+    "tags": [
+      "accessory"
+    ]
+  },
+  "kitchen": {
+    "display": "Kitchen",
+    "tags": [
+      "room"
+    ]
+  },
+  "kite": {
+    "display": "Kite",
+    "tags": [
+      "toy",
+      "flies"
+    ]
+  },
+  "kiwi": {
+    "display": "Kiwi",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "knee": {
+    "display": "Knee",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "knife": {
+    "display": "Knife",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "ladybug": {
+    "display": "Ladybug",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "lake": {
+    "display": "Lake",
+    "tags": [
+      "place"
+    ]
+  },
+  "lamb": {
+    "display": "Lamb",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "lamp": {
+    "display": "Lamp",
+    "tags": [
+      "furniture",
+      "electronic"
+    ]
+  },
+  "laptop": {
+    "display": "Laptop",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "lawyer": {
+    "display": "Lawyer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "leg": {
+    "display": "Leg",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "lemon": {
+    "display": "Lemon",
+    "tags": [
+      "fruit",
+      "food",
+      "color"
+    ]
+  },
+  "lemonade": {
+    "display": "Lemonade",
+    "tags": [
+      "drink"
+    ]
+  },
+  "lettuce": {
+    "display": "Lettuce",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "library": {
+    "display": "Library",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "lightning": {
+    "display": "Lightning",
+    "tags": [
+      "weather"
+    ]
+  },
+  "lime": {
+    "display": "Lime",
+    "tags": [
+      "fruit",
+      "food",
+      "color"
+    ]
+  },
+  "lion": {
+    "display": "Lion",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "lip": {
+    "display": "Lip",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "lizard": {
+    "display": "Lizard",
+    "tags": [
+      "animal",
+      "pet"
+    ]
+  },
+  "loafer": {
+    "display": "Loafer",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "lobster": {
+    "display": "Lobster",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "locket": {
+    "display": "Locket",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "london": {
+    "display": "London",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "madrid": {
+    "display": "Madrid",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "mall": {
+    "display": "Mall",
+    "tags": [
+      "store",
+      "place",
+      "building"
+    ]
+  },
+  "manager": {
+    "display": "Manager",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "mango": {
+    "display": "Mango",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "market": {
+    "display": "Market",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "mask": {
+    "display": "Mask",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "meat": {
+    "display": "Meat",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "mechanic": {
+    "display": "Mechanic",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "melon": {
+    "display": "Melon",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "mexico": {
+    "display": "Mexico",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "microwave": {
+    "display": "Microwave",
+    "tags": [
+      "appliance",
+      "kitchen_item"
+    ]
+  },
+  "milk": {
+    "display": "Milk",
+    "tags": [
+      "food",
+      "dairy",
+      "drink",
+      "breakfast"
+    ]
+  },
+  "monitor": {
+    "display": "Monitor",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "monkey": {
+    "display": "Monkey",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "monopoly": {
+    "display": "Monopoly",
+    "tags": [
+      "game"
+    ]
+  },
+  "mop": {
+    "display": "Mop",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "mosquito": {
+    "display": "Mosquito",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "moth": {
+    "display": "Moth",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "motorcycle": {
+    "display": "Motorcycle",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "mountain": {
+    "display": "Mountain",
+    "tags": [
+      "place"
+    ]
+  },
+  "mouse": {
+    "display": "Mouse",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet",
+      "electronic"
+    ]
+  },
+  "mouth": {
+    "display": "Mouth",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "mug": {
+    "display": "Mug",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "museum": {
+    "display": "Museum",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "mushroom": {
+    "display": "Mushroom",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "musician": {
+    "display": "Musician",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "neck": {
+    "display": "Neck",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "necklace": {
+    "display": "Necklace",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "nectarine": {
+    "display": "Nectarine",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "net": {
+    "display": "Net",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "new york": {
+    "display": "New York",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "nightstand": {
+    "display": "Nightstand",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "nose": {
+    "display": "Nose",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "nurse": {
+    "display": "Nurse",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "nut": {
+    "display": "Nut",
+    "tags": [
+      "snack",
+      "food"
+    ]
+  },
+  "ocean": {
+    "display": "Ocean",
+    "tags": [
+      "place"
+    ]
+  },
+  "octopus": {
+    "display": "Octopus",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "office": {
+    "display": "Office",
+    "tags": [
+      "room",
+      "place"
+    ]
+  },
+  "olive": {
+    "display": "Olive",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "onion": {
+    "display": "Onion",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "orange": {
+    "display": "Orange",
+    "tags": [
+      "fruit",
+      "food",
+      "color"
+    ]
+  },
+  "oval": {
+    "display": "Oval",
+    "tags": [
+      "shape"
+    ]
+  },
+  "oven": {
+    "display": "Oven",
+    "tags": [
+      "appliance",
+      "kitchen_item"
+    ]
+  },
+  "owl": {
+    "display": "Owl",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "oyster": {
+    "display": "Oyster",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "paint": {
+    "display": "Paint",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "pajamas": {
+    "display": "Pajamas",
+    "tags": [
+      "clothing"
+    ],
+    "variants": [
+      "pyjamas"
+    ]
+  },
+  "pan": {
+    "display": "Pan",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "pants": {
+    "display": "Pants",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "papaya": {
+    "display": "Papaya",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "paris": {
+    "display": "Paris",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "park": {
+    "display": "Park",
+    "tags": [
+      "place"
+    ]
+  },
+  "parrot": {
+    "display": "Parrot",
+    "tags": [
+      "animal",
+      "bird",
+      "flies",
+      "pet"
+    ]
+  },
+  "pasta": {
+    "display": "Pasta",
+    "tags": [
+      "food",
+      "grain"
+    ]
+  },
+  "peach": {
+    "display": "Peach",
+    "tags": [
+      "fruit",
+      "food",
+      "color"
+    ]
+  },
+  "peacock": {
+    "display": "Peacock",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "pear": {
+    "display": "Pear",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "peas": {
+    "display": "Peas",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "peeler": {
+    "display": "Peeler",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "pendant": {
+    "display": "Pendant",
+    "tags": [
+      "jewelry"
+    ]
+  },
+  "penguin": {
+    "display": "Penguin",
+    "tags": [
+      "animal",
+      "bird"
+    ]
+  },
+  "pepper": {
+    "display": "Pepper",
+    "tags": [
+      "vegetable",
+      "food",
+      "spice"
+    ]
+  },
+  "pharmacy": {
+    "display": "Pharmacy",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "phone": {
+    "display": "Phone",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "piano": {
+    "display": "Piano",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "pie": {
+    "display": "Pie",
+    "tags": [
+      "dessert",
+      "food"
+    ]
+  },
+  "pig": {
+    "display": "Pig",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "pilot": {
+    "display": "Pilot",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "pineapple": {
+    "display": "Pineapple",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "pink": {
+    "display": "Pink",
+    "tags": [
+      "color"
+    ]
+  },
+  "pizza": {
+    "display": "Pizza",
+    "tags": [
+      "food"
+    ]
+  },
+  "plane": {
+    "display": "Plane",
+    "tags": [
+      "vehicle",
+      "flies"
+    ]
+  },
+  "plate": {
+    "display": "Plate",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "play": {
+    "display": "Play",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "plum": {
+    "display": "Plum",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "plumber": {
+    "display": "Plumber",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "poker": {
+    "display": "Poker",
+    "tags": [
+      "game"
+    ]
+  },
+  "police": {
+    "display": "Police",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "pomegranate": {
+    "display": "Pomegranate",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "poncho": {
+    "display": "Poncho",
+    "tags": [
+      "clothing",
+      "outerwear"
+    ]
+  },
+  "popcorn": {
+    "display": "Popcorn",
+    "tags": [
+      "snack"
+    ]
+  },
+  "porch": {
+    "display": "Porch",
+    "tags": [
+      "room"
+    ]
+  },
+  "pork": {
+    "display": "Pork",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "pot": {
+    "display": "Pot",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "potato": {
+    "display": "Potato",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "pretzel": {
+    "display": "Pretzel",
+    "tags": [
+      "snack"
+    ]
+  },
+  "printer": {
+    "display": "Printer",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "puck": {
+    "display": "Puck",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "pumpkin": {
+    "display": "Pumpkin",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "purple": {
+    "display": "Purple",
+    "tags": [
+      "color"
+    ]
+  },
+  "purse": {
+    "display": "Purse",
+    "tags": [
+      "accessory",
+      "luggage"
+    ]
+  },
+  "puzzle": {
+    "display": "Puzzle",
+    "tags": [
+      "game",
+      "toy"
+    ]
+  },
+  "rabbit": {
+    "display": "Rabbit",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet"
+    ]
+  },
+  "racket": {
+    "display": "Racket",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "radio": {
+    "display": "Radio",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "radish": {
+    "display": "Radish",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "raft": {
+    "display": "Raft",
+    "tags": [
+      "beach_item",
+      "vehicle"
+    ]
+  },
+  "rain": {
+    "display": "Rain",
+    "tags": [
+      "weather"
+    ]
+  },
+  "rainbow": {
+    "display": "Rainbow",
+    "tags": [
+      "weather"
+    ]
+  },
+  "raspberry": {
+    "display": "Raspberry",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "rat": {
+    "display": "Rat",
+    "tags": [
+      "animal",
+      "mammal",
+      "pet"
+    ]
+  },
+  "read": {
+    "display": "Read",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "rectangle": {
+    "display": "Rectangle",
+    "tags": [
+      "shape"
+    ]
+  },
+  "red": {
+    "display": "Red",
+    "tags": [
+      "color"
+    ]
+  },
+  "remote": {
+    "display": "Remote",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "rest": {
+    "display": "Rest",
+    "tags": [
+      "activity"
+    ]
+  },
+  "rice": {
+    "display": "Rice",
+    "tags": [
+      "food",
+      "grain"
+    ]
+  },
+  "ring": {
+    "display": "Ring",
+    "tags": [
+      "clothing",
+      "jewelry"
+    ]
+  },
+  "river": {
+    "display": "River",
+    "tags": [
+      "place"
+    ]
+  },
+  "robe": {
+    "display": "Robe",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "robin": {
+    "display": "Robin",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "rocket": {
+    "display": "Rocket",
+    "tags": [
+      "vehicle",
+      "flies"
+    ]
+  },
+  "rome": {
+    "display": "Rome",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "rugby": {
+    "display": "Rugby",
+    "tags": [
+      "sport"
+    ]
+  },
+  "run": {
+    "display": "Run",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "running": {
+    "display": "Running",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "sailor": {
+    "display": "Sailor",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "salad": {
+    "display": "Salad",
+    "tags": [
+      "food"
+    ]
+  },
+  "salmon": {
+    "display": "Salmon",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "salt": {
+    "display": "Salt",
+    "tags": [
+      "food",
+      "spice"
+    ]
+  },
+  "sandal": {
+    "display": "Sandal",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "sandwich": {
+    "display": "Sandwich",
+    "tags": [
+      "food"
+    ]
+  },
+  "sausage": {
+    "display": "Sausage",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "saxophone": {
+    "display": "Saxophone",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "scarf": {
+    "display": "Scarf",
+    "tags": [
+      "clothing",
+      "accessory"
+    ]
+  },
+  "school": {
+    "display": "School",
+    "tags": [
+      "building",
+      "place"
+    ]
+  },
+  "scooter": {
+    "display": "Scooter",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "scrabble": {
+    "display": "Scrabble",
+    "tags": [
+      "game"
+    ]
+  },
+  "secretary": {
+    "display": "Secretary",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "shake": {
+    "display": "Shake",
+    "tags": [
+      "drink"
+    ]
+  },
+  "shark": {
+    "display": "Shark",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood"
+    ]
+  },
+  "shawl": {
+    "display": "Shawl",
+    "tags": [
+      "clothing",
+      "accessory"
+    ]
+  },
+  "sheep": {
+    "display": "Sheep",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "shelf": {
+    "display": "Shelf",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "ship": {
+    "display": "Ship",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "shirt": {
+    "display": "Shirt",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "shoe": {
+    "display": "Shoe",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "shorts": {
+    "display": "Shorts",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "shoulder": {
+    "display": "Shoulder",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "shower": {
+    "display": "Shower",
+    "tags": [
+      "weather"
+    ]
+  },
+  "shrimp": {
+    "display": "Shrimp",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "silver": {
+    "display": "Silver",
+    "tags": [
+      "color"
+    ]
+  },
+  "sing": {
+    "display": "Sing",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "singer": {
+    "display": "Singer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "skate": {
+    "display": "Skate",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "skateboard": {
+    "display": "Skateboard",
+    "tags": [
+      "vehicle",
+      "toy"
+    ]
+  },
+  "skating": {
+    "display": "Skating",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "ski": {
+    "display": "Ski",
+    "tags": [
+      "sport_equipment"
+    ]
+  },
+  "skiing": {
+    "display": "Skiing",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "skirt": {
+    "display": "Skirt",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "sled": {
+    "display": "Sled",
+    "tags": [
+      "vehicle",
+      "toy"
+    ]
+  },
+  "sleep": {
+    "display": "Sleep",
+    "tags": [
+      "activity"
+    ]
+  },
+  "sleet": {
+    "display": "Sleet",
+    "tags": [
+      "weather"
+    ]
+  },
+  "slipper": {
+    "display": "Slipper",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "smoothie": {
+    "display": "Smoothie",
+    "tags": [
+      "drink"
+    ]
+  },
+  "snake": {
+    "display": "Snake",
+    "tags": [
+      "animal"
+    ]
+  },
+  "sneaker": {
+    "display": "Sneaker",
+    "tags": [
+      "clothing",
+      "footwear"
+    ]
+  },
+  "snorkel": {
+    "display": "Snorkel",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "snow": {
+    "display": "Snow",
+    "tags": [
+      "weather"
+    ]
+  },
+  "soap": {
+    "display": "Soap",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "soccer": {
+    "display": "Soccer",
+    "tags": [
+      "sport"
+    ]
+  },
+  "sock": {
+    "display": "Sock",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "soda": {
+    "display": "Soda",
+    "tags": [
+      "drink"
+    ]
+  },
+  "sofa": {
+    "display": "Sofa",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "soldier": {
+    "display": "Soldier",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "soup": {
+    "display": "Soup",
+    "tags": [
+      "food"
+    ]
+  },
+  "spain": {
+    "display": "Spain",
+    "tags": [
+      "place",
+      "country"
+    ]
+  },
+  "sparrow": {
+    "display": "Sparrow",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "spatula": {
+    "display": "Spatula",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "speaker": {
+    "display": "Speaker",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "spider": {
+    "display": "Spider",
+    "tags": [
+      "animal",
+      "insect"
+    ]
+  },
+  "spinach": {
+    "display": "Spinach",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "sponge": {
+    "display": "Sponge",
+    "tags": [
+      "cleaning_tool"
+    ]
+  },
+  "spoon": {
+    "display": "Spoon",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "spring": {
+    "display": "Spring",
+    "tags": [
+      "season"
+    ]
+  },
+  "square": {
+    "display": "Square",
+    "tags": [
+      "shape"
+    ]
+  },
+  "squash": {
+    "display": "Squash",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "squid": {
+    "display": "Squid",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "stadium": {
+    "display": "Stadium",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "star": {
+    "display": "Star",
+    "tags": [
+      "shape"
+    ]
+  },
+  "station": {
+    "display": "Station",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "steak": {
+    "display": "Steak",
+    "tags": [
+      "food",
+      "meat"
+    ]
+  },
+  "stool": {
+    "display": "Stool",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "store": {
+    "display": "Store",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "storm": {
+    "display": "Storm",
+    "tags": [
+      "weather"
+    ]
+  },
+  "strawberry": {
+    "display": "Strawberry",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "subway": {
+    "display": "Subway",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "sugar": {
+    "display": "Sugar",
+    "tags": [
+      "food"
+    ]
+  },
+  "suit": {
+    "display": "Suit",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "suitcase": {
+    "display": "Suitcase",
+    "tags": [
+      "luggage"
+    ]
+  },
+  "summer": {
+    "display": "Summer",
+    "tags": [
+      "season"
+    ]
+  },
+  "sun": {
+    "display": "Sun",
+    "tags": [
+      "weather",
+      "flies"
+    ]
+  },
+  "sunglasses": {
+    "display": "Sunglasses",
+    "tags": [
+      "accessory"
+    ]
+  },
+  "sunscreen": {
+    "display": "Sunscreen",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "supermarket": {
+    "display": "Supermarket",
+    "tags": [
+      "store",
+      "place"
+    ]
+  },
+  "surfboard": {
+    "display": "Surfboard",
+    "tags": [
+      "beach_item",
+      "sport"
+    ]
+  },
+  "surfing": {
+    "display": "Surfing",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "swan": {
+    "display": "Swan",
+    "tags": [
+      "animal",
+      "bird",
+      "flies"
+    ]
+  },
+  "sweater": {
+    "display": "Sweater",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "swim": {
+    "display": "Swim",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "swimming": {
+    "display": "Swimming",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "sydney": {
+    "display": "Sydney",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "table": {
+    "display": "Table",
+    "tags": [
+      "furniture"
+    ]
+  },
+  "tablet": {
+    "display": "Tablet",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "tambourine": {
+    "display": "Tambourine",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "tangerine": {
+    "display": "Tangerine",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "taxi": {
+    "display": "Taxi",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "tea": {
+    "display": "Tea",
+    "tags": [
+      "drink",
+      "breakfast"
+    ]
+  },
+  "teacher": {
+    "display": "Teacher",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "teddy": {
+    "display": "Teddy",
+    "tags": [
+      "toy"
+    ]
+  },
+  "temple": {
+    "display": "Temple",
+    "tags": [
+      "building",
+      "place"
+    ]
+  },
+  "tennis": {
+    "display": "Tennis",
+    "tags": [
+      "sport"
+    ]
+  },
+  "thunder": {
+    "display": "Thunder",
+    "tags": [
+      "weather"
+    ]
+  },
+  "tie": {
+    "display": "Tie",
+    "tags": [
+      "clothing",
+      "accessory"
+    ]
+  },
+  "tiger": {
+    "display": "Tiger",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "toaster": {
+    "display": "Toaster",
+    "tags": [
+      "appliance",
+      "kitchen_item"
+    ]
+  },
+  "toe": {
+    "display": "Toe",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "tokyo": {
+    "display": "Tokyo",
+    "tags": [
+      "place",
+      "city"
+    ]
+  },
+  "tomato": {
+    "display": "Tomato",
+    "tags": [
+      "vegetable",
+      "fruit",
+      "food"
+    ]
+  },
+  "tooth": {
+    "display": "Tooth",
+    "tags": [
+      "body_part"
+    ]
+  },
+  "top": {
+    "display": "Top",
+    "tags": [
+      "toy"
+    ]
+  },
+  "tornado": {
+    "display": "Tornado",
+    "tags": [
+      "weather"
+    ]
+  },
+  "towel": {
+    "display": "Towel",
+    "tags": [
+      "beach_item"
+    ]
+  },
+  "train": {
+    "display": "Train",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "travel": {
+    "display": "Travel",
+    "tags": [
+      "activity"
+    ]
+  },
+  "triangle": {
+    "display": "Triangle",
+    "tags": [
+      "shape"
+    ]
+  },
+  "truck": {
+    "display": "Truck",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "trumpet": {
+    "display": "Trumpet",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "tuna": {
+    "display": "Tuna",
+    "tags": [
+      "animal",
+      "fish",
+      "seafood",
+      "food"
+    ]
+  },
+  "turban": {
+    "display": "Turban",
+    "tags": [
+      "headwear"
+    ]
+  },
+  "turkey": {
+    "display": "Turkey",
+    "tags": [
+      "animal",
+      "bird",
+      "food",
+      "meat"
+    ]
+  },
+  "turnip": {
+    "display": "Turnip",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  },
+  "turtle": {
+    "display": "Turtle",
+    "tags": [
+      "animal",
+      "pet"
+    ]
+  },
+  "tv": {
+    "display": "TV",
+    "tags": [
+      "electronic"
+    ]
+  },
+  "ukulele": {
+    "display": "Ukulele",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "umbrella": {
+    "display": "Umbrella",
+    "tags": [
+      "accessory",
+      "beach_item"
+    ]
+  },
+  "uniform": {
+    "display": "Uniform",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "vacuum": {
+    "display": "Vacuum",
+    "tags": [
+      "cleaning_tool",
+      "appliance"
+    ]
+  },
+  "van": {
+    "display": "Van",
+    "tags": [
+      "vehicle"
+    ]
+  },
+  "vest": {
+    "display": "Vest",
+    "tags": [
+      "clothing"
+    ]
+  },
+  "violin": {
+    "display": "Violin",
+    "tags": [
+      "musical_instrument"
+    ]
+  },
+  "visor": {
+    "display": "Visor",
+    "tags": [
+      "headwear"
+    ]
+  },
+  "volleyball": {
+    "display": "Volleyball",
+    "tags": [
+      "sport"
+    ]
+  },
+  "waiter": {
+    "display": "Waiter",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "walk": {
+    "display": "Walk",
+    "tags": [
+      "activity",
+      "action"
+    ]
+  },
+  "wallet": {
+    "display": "Wallet",
+    "tags": [
+      "accessory"
+    ]
+  },
+  "washer": {
+    "display": "Washer",
+    "tags": [
+      "appliance"
+    ]
+  },
+  "wasp": {
+    "display": "Wasp",
+    "tags": [
+      "animal",
+      "insect",
+      "flies"
+    ]
+  },
+  "watch": {
+    "display": "Watch",
+    "tags": [
+      "clothing",
+      "accessory",
+      "jewelry"
+    ]
+  },
+  "water": {
+    "display": "Water",
+    "tags": [
+      "drink",
+      "food"
+    ]
+  },
+  "watermelon": {
+    "display": "Watermelon",
+    "tags": [
+      "fruit",
+      "food"
+    ]
+  },
+  "whale": {
+    "display": "Whale",
+    "tags": [
+      "animal",
+      "mammal",
+      "fish"
+    ]
+  },
+  "whisk": {
+    "display": "Whisk",
+    "tags": [
+      "kitchen_item"
+    ]
+  },
+  "white": {
+    "display": "White",
+    "tags": [
+      "color"
+    ]
+  },
+  "wind": {
+    "display": "Wind",
+    "tags": [
+      "weather",
+      "flies"
+    ]
+  },
+  "wine": {
+    "display": "Wine",
+    "tags": [
+      "drink"
+    ]
+  },
+  "winter": {
+    "display": "Winter",
+    "tags": [
+      "season"
+    ]
+  },
+  "wolf": {
+    "display": "Wolf",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "work": {
+    "display": "Work",
+    "tags": [
+      "activity"
+    ]
+  },
+  "write": {
+    "display": "Write",
+    "tags": [
+      "activity",
+      "hobby"
+    ]
+  },
+  "writer": {
+    "display": "Writer",
+    "tags": [
+      "job",
+      "profession"
+    ]
+  },
+  "yellow": {
+    "display": "Yellow",
+    "tags": [
+      "color"
+    ]
+  },
+  "yo-yo": {
+    "display": "Yo-yo",
+    "tags": [
+      "toy"
+    ],
+    "variants": [
+      "yoyo"
+    ]
+  },
+  "yoga": {
+    "display": "Yoga",
+    "tags": [
+      "sport",
+      "activity"
+    ]
+  },
+  "yogurt": {
+    "display": "Yogurt",
+    "tags": [
+      "food",
+      "dairy",
+      "breakfast"
+    ]
+  },
+  "zebra": {
+    "display": "Zebra",
+    "tags": [
+      "animal",
+      "mammal"
+    ]
+  },
+  "zoo": {
+    "display": "Zoo",
+    "tags": [
+      "place",
+      "building"
+    ]
+  },
+  "zucchini": {
+    "display": "Zucchini",
+    "tags": [
+      "vegetable",
+      "food"
+    ]
+  }
 }

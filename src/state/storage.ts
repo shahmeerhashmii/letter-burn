@@ -1,3 +1,8 @@
+export type PromptResult = {
+  id: string;
+  word?: string;
+};
+
 export type GameRecord = {
   date: string;
   number: number;
@@ -6,6 +11,9 @@ export type GameRecord = {
   unburned: number;
   borrows: number;
   finished: boolean;
+  prompts: PromptResult[];
+  burned: string[];
+  doubleDuties: number;
 };
 
 type Stored = {

@@ -40,6 +40,7 @@ export type GameState = {
   borrowedCount: number;
   words: string[];
   status: "playing" | "finished";
+  doubleDuties: number;
 };
 
 type Screen = "home" | "game" | "results" | "history" | "howto" | "practice";
@@ -81,6 +82,7 @@ function emptyGame(date: string): GameState | null {
     borrowedCount: 0,
     words: [],
     status: "playing",
+    doubleDuties: 0,
   };
 }
 
@@ -230,6 +232,7 @@ export function useGame() {
         borrowsLeft,
         borrowedCount: app.game.borrowedCount + result.borrowCount,
         words: [...app.game.words, entry.display],
+        doubleDuties: app.game.doubleDuties + (result.cleared.length >= 2 ? 1 : 0),
       };
       setApp((a) => ({
         ...a,
@@ -244,6 +247,14 @@ export function useGame() {
     [app.game, burnedSet, openIds, persist],
   );
 
+  const msUntilMidnight = useCallback((): number => {
+    const now = new Date();
+    const tomorrow = new Date(now);
+    tomorrow.setDate(now.getDate() + 1);
+    tomorrow.setHours(0, 0, 0, 0);
+    return tomorrow.getTime() - now.getTime();
+  }, []);
+
   const finishGame = useCallback((game: GameState) => {
     const record: GameRecord = {
       date: game.date,
@@ -253,14 +264,26 @@ export function useGame() {
       unburned: 26 - game.burned.length,
       borrows: game.borrowedCount,
       finished: true,
+      prompts: game.prompts.map((p) => ({ id: p.id, word: p.word })),
+      burned: [...game.burned].sort(),
+      doubleDuties: game.doubleDuties,
     };
-    const nextStored = {
+    const today = game.date;
+    let current = app.stored.streak.current;
+    let best = app.stored.streak.best;
+    if (app.stored.streak.lastDate !== today) {
+      const yesterday = localDateString(new Date(Date.now() - 86400000));
+      current = app.stored.streak.lastDate === yesterday ? current + 1 : 1;
+      if (current > best) best = current;
+    }
+    const nextStored: Stored = {
       ...app.stored,
+      streak: { current, best, lastDate: today },
       history: [record, ...app.stored.history].slice(0, 50),
     };
     persist(nextStored);
     setApp((a) => ({ ...a, screen: "results", stored: nextStored }));
-  }, [app.stored, persist]);
+  }, [app.stored, persist, localDateString]);
 
   const quitGame = useCallback(() => {
     if (!app.game) return;
@@ -290,5 +313,6 @@ export function useGame() {
     goHome,
     setScreen,
     setMessage,
+    msUntilMidnight,
   };
 }

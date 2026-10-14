@@ -5,10 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run check-puzzles && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "check-puzzles": "tsx scripts/solve.ts"
+    "check-puzzles": "tsx scripts/solve.ts",
+    "generate-data": "tsx scripts/generate-data.ts",
+    "generate-puzzles": "tsx scripts/generate-puzzles.ts",
+    "generate-practice": "tsx scripts/generate-practice.ts"
   },
   "dependencies": {
     "react": "^18.3.1",

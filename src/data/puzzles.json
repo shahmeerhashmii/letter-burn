@@ -1,5 +1,662 @@
 {
-  "2026-10-19": { "number": 1, "prompts": ["animal", "food", "clothing", "beach_item", "flies"] },
-  "2026-10-20": { "number": 2, "prompts": ["fruit", "drink", "furniture", "vehicle", "weather"] },
-  "2026-10-21": { "number": 3, "prompts": ["clothing", "footwear", "headwear", "toy", "sport"] }
+  "2026-10-19": {
+    "number": 1,
+    "prompts": [
+      "fruit",
+      "activity",
+      "musical_instrument",
+      "place",
+      "profession"
+    ],
+    "par": 560
+  },
+  "2026-10-20": {
+    "number": 2,
+    "prompts": [
+      "fish",
+      "breakfast",
+      "job",
+      "fruit",
+      "animal"
+    ],
+    "par": 570
+  },
+  "2026-10-21": {
+    "number": 3,
+    "prompts": [
+      "season",
+      "electronic",
+      "fruit",
+      "pet",
+      "food"
+    ],
+    "par": 575
+  },
+  "2026-10-22": {
+    "number": 4,
+    "prompts": [
+      "body_part",
+      "drink",
+      "building",
+      "kitchen_item",
+      "food"
+    ],
+    "par": 575
+  },
+  "2026-10-23": {
+    "number": 5,
+    "prompts": [
+      "food",
+      "vehicle",
+      "vegetable",
+      "appliance",
+      "pet"
+    ],
+    "par": 570
+  },
+  "2026-10-24": {
+    "number": 6,
+    "prompts": [
+      "bird",
+      "meat",
+      "fruit",
+      "electronic",
+      "activity"
+    ],
+    "par": 570
+  },
+  "2026-10-25": {
+    "number": 7,
+    "prompts": [
+      "weather",
+      "clothing",
+      "footwear",
+      "insect",
+      "hobby"
+    ],
+    "par": 565
+  },
+  "2026-10-26": {
+    "number": 8,
+    "prompts": [
+      "place",
+      "drink",
+      "insect",
+      "footwear",
+      "breakfast"
+    ],
+    "par": 555
+  },
+  "2026-10-27": {
+    "number": 9,
+    "prompts": [
+      "sport",
+      "kitchen_item",
+      "food",
+      "pet",
+      "electronic"
+    ],
+    "par": 570
+  },
+  "2026-10-28": {
+    "number": 10,
+    "prompts": [
+      "fish",
+      "activity",
+      "city",
+      "flies",
+      "bird"
+    ],
+    "par": 570
+  },
+  "2026-10-29": {
+    "number": 11,
+    "prompts": [
+      "shape",
+      "drink",
+      "fish",
+      "kitchen_item",
+      "seafood"
+    ],
+    "par": 560
+  },
+  "2026-10-30": {
+    "number": 12,
+    "prompts": [
+      "seafood",
+      "sport",
+      "activity",
+      "weather",
+      "electronic"
+    ],
+    "par": 560
+  },
+  "2026-10-31": {
+    "number": 13,
+    "prompts": [
+      "job",
+      "place",
+      "vegetable",
+      "fish",
+      "animal"
+    ],
+    "par": 565
+  },
+  "2026-11-01": {
+    "number": 14,
+    "prompts": [
+      "electronic",
+      "vegetable",
+      "vehicle",
+      "meat",
+      "toy"
+    ],
+    "par": 570
+  },
+  "2026-11-02": {
+    "number": 15,
+    "prompts": [
+      "sport_equipment",
+      "food",
+      "seafood",
+      "building",
+      "flies"
+    ],
+    "par": 585
+  },
+  "2026-11-03": {
+    "number": 16,
+    "prompts": [
+      "food",
+      "game",
+      "electronic",
+      "toy",
+      "store"
+    ],
+    "par": 565
+  },
+  "2026-11-04": {
+    "number": 17,
+    "prompts": [
+      "vehicle",
+      "breakfast",
+      "building",
+      "seafood",
+      "activity"
+    ],
+    "par": 575
+  },
+  "2026-11-05": {
+    "number": 18,
+    "prompts": [
+      "mammal",
+      "electronic",
+      "outerwear",
+      "weather",
+      "clothing"
+    ],
+    "par": 560
+  },
+  "2026-11-06": {
+    "number": 19,
+    "prompts": [
+      "weather",
+      "footwear",
+      "food",
+      "vehicle",
+      "seafood"
+    ],
+    "par": 565
+  },
+  "2026-11-07": {
+    "number": 20,
+    "prompts": [
+      "electronic",
+      "meat",
+      "game",
+      "flies",
+      "toy"
+    ],
+    "par": 570
+  },
+  "2026-11-08": {
+    "number": 21,
+    "prompts": [
+      "animal",
+      "fish",
+      "kitchen_item",
+      "clothing",
+      "vehicle"
+    ],
+    "par": 570
+  },
+  "2026-11-09": {
+    "number": 22,
+    "prompts": [
+      "place",
+      "fish",
+      "pet",
+      "store",
+      "bird"
+    ],
+    "par": 575
+  },
+  "2026-11-10": {
+    "number": 23,
+    "prompts": [
+      "sport",
+      "fish",
+      "vegetable",
+      "meat",
+      "flies"
+    ],
+    "par": 560
+  },
+  "2026-11-11": {
+    "number": 24,
+    "prompts": [
+      "headwear",
+      "clothing",
+      "food",
+      "flies",
+      "spice"
+    ],
+    "par": 585
+  },
+  "2026-11-12": {
+    "number": 25,
+    "prompts": [
+      "breakfast",
+      "animal",
+      "musical_instrument",
+      "country",
+      "seafood"
+    ],
+    "par": 560
+  },
+  "2026-11-13": {
+    "number": 26,
+    "prompts": [
+      "insect",
+      "hobby",
+      "dairy",
+      "clothing",
+      "flies"
+    ],
+    "par": 560
+  },
+  "2026-11-14": {
+    "number": 27,
+    "prompts": [
+      "furniture",
+      "color",
+      "store",
+      "fruit",
+      "place"
+    ],
+    "par": 565
+  },
+  "2026-11-15": {
+    "number": 28,
+    "prompts": [
+      "job",
+      "vehicle",
+      "weather",
+      "country",
+      "place"
+    ],
+    "par": 555
+  },
+  "2026-11-16": {
+    "number": 29,
+    "prompts": [
+      "appliance",
+      "seafood",
+      "activity",
+      "job",
+      "food"
+    ],
+    "par": 575
+  },
+  "2026-11-17": {
+    "number": 30,
+    "prompts": [
+      "activity",
+      "fish",
+      "seafood",
+      "vehicle",
+      "breakfast"
+    ],
+    "par": 585
+  },
+  "2026-11-18": {
+    "number": 31,
+    "prompts": [
+      "pet",
+      "activity",
+      "toy",
+      "vehicle",
+      "action"
+    ],
+    "par": 580
+  },
+  "2026-11-19": {
+    "number": 32,
+    "prompts": [
+      "toy",
+      "animal",
+      "drink",
+      "mammal",
+      "kitchen_item"
+    ],
+    "par": 575
+  },
+  "2026-11-20": {
+    "number": 33,
+    "prompts": [
+      "action",
+      "bird",
+      "snack",
+      "flies",
+      "meat"
+    ],
+    "par": 565
+  },
+  "2026-11-21": {
+    "number": 34,
+    "prompts": [
+      "footwear",
+      "activity",
+      "fruit",
+      "flies",
+      "meat"
+    ],
+    "par": 565
+  },
+  "2026-11-22": {
+    "number": 35,
+    "prompts": [
+      "toy",
+      "fruit",
+      "electronic",
+      "color",
+      "country"
+    ],
+    "par": 570
+  },
+  "2026-11-23": {
+    "number": 36,
+    "prompts": [
+      "mammal",
+      "color",
+      "animal",
+      "vehicle",
+      "store"
+    ],
+    "par": 570
+  },
+  "2026-11-24": {
+    "number": 37,
+    "prompts": [
+      "food",
+      "luggage",
+      "fish",
+      "pet",
+      "bird"
+    ],
+    "par": 580
+  },
+  "2026-11-25": {
+    "number": 38,
+    "prompts": [
+      "musical_instrument",
+      "color",
+      "food",
+      "mammal",
+      "beach_item"
+    ],
+    "par": 560
+  },
+  "2026-11-26": {
+    "number": 39,
+    "prompts": [
+      "activity",
+      "musical_instrument",
+      "kitchen_item",
+      "bird",
+      "flies"
+    ],
+    "par": 560
+  },
+  "2026-11-27": {
+    "number": 40,
+    "prompts": [
+      "toy",
+      "musical_instrument",
+      "sport_equipment",
+      "activity",
+      "place"
+    ],
+    "par": 565
+  },
+  "2026-11-28": {
+    "number": 41,
+    "prompts": [
+      "clothing",
+      "footwear",
+      "vehicle",
+      "furniture",
+      "flies"
+    ],
+    "par": 565
+  },
+  "2026-11-29": {
+    "number": 42,
+    "prompts": [
+      "activity",
+      "toy",
+      "pet",
+      "body_part",
+      "fish"
+    ],
+    "par": 585
+  },
+  "2026-11-30": {
+    "number": 43,
+    "prompts": [
+      "action",
+      "pet",
+      "mammal",
+      "weather",
+      "color"
+    ],
+    "par": 570
+  },
+  "2026-12-01": {
+    "number": 44,
+    "prompts": [
+      "weather",
+      "activity",
+      "hobby",
+      "job",
+      "fish"
+    ],
+    "par": 575
+  },
+  "2026-12-02": {
+    "number": 45,
+    "prompts": [
+      "activity",
+      "meat",
+      "animal",
+      "mammal",
+      "building"
+    ],
+    "par": 575
+  },
+  "2026-12-03": {
+    "number": 46,
+    "prompts": [
+      "food",
+      "breakfast",
+      "city",
+      "hobby",
+      "profession"
+    ],
+    "par": 580
+  },
+  "2026-12-04": {
+    "number": 47,
+    "prompts": [
+      "cleaning_tool",
+      "weather",
+      "appliance",
+      "body_part",
+      "toy"
+    ],
+    "par": 560
+  },
+  "2026-12-05": {
+    "number": 48,
+    "prompts": [
+      "fish",
+      "action",
+      "place",
+      "body_part",
+      "store"
+    ],
+    "par": 575
+  },
+  "2026-12-06": {
+    "number": 49,
+    "prompts": [
+      "insect",
+      "dessert",
+      "vegetable",
+      "cleaning_tool",
+      "animal"
+    ],
+    "par": 555
+  },
+  "2026-12-07": {
+    "number": 50,
+    "prompts": [
+      "food",
+      "animal",
+      "toy",
+      "action",
+      "fish"
+    ],
+    "par": 585
+  },
+  "2026-12-08": {
+    "number": 51,
+    "prompts": [
+      "snack",
+      "appliance",
+      "meat",
+      "activity",
+      "seafood"
+    ],
+    "par": 555
+  },
+  "2026-12-09": {
+    "number": 52,
+    "prompts": [
+      "animal",
+      "flies",
+      "place",
+      "seafood",
+      "pet"
+    ],
+    "par": 590
+  },
+  "2026-12-10": {
+    "number": 53,
+    "prompts": [
+      "food",
+      "place",
+      "country",
+      "action",
+      "sport_equipment"
+    ],
+    "par": 565
+  },
+  "2026-12-11": {
+    "number": 54,
+    "prompts": [
+      "city",
+      "sport_equipment",
+      "animal",
+      "activity",
+      "kitchen_item"
+    ],
+    "par": 560
+  },
+  "2026-12-12": {
+    "number": 55,
+    "prompts": [
+      "pet",
+      "flies",
+      "electronic",
+      "furniture",
+      "meat"
+    ],
+    "par": 570
+  },
+  "2026-12-13": {
+    "number": 56,
+    "prompts": [
+      "place",
+      "kitchen_item",
+      "flies",
+      "store",
+      "vehicle"
+    ],
+    "par": 565
+  },
+  "2026-12-14": {
+    "number": 57,
+    "prompts": [
+      "body_part",
+      "food",
+      "drink",
+      "animal",
+      "hobby"
+    ],
+    "par": 585
+  },
+  "2026-12-15": {
+    "number": 58,
+    "prompts": [
+      "job",
+      "toy",
+      "color",
+      "food",
+      "hobby"
+    ],
+    "par": 570
+  },
+  "2026-12-16": {
+    "number": 59,
+    "prompts": [
+      "meat",
+      "animal",
+      "activity",
+      "fruit",
+      "place"
+    ],
+    "par": 570
+  },
+  "2026-12-17": {
+    "number": 60,
+    "prompts": [
+      "food",
+      "animal",
+      "activity",
+      "electronic",
+      "grain"
+    ],
+    "par": 580
+  }
 }

@@ -1,17 +1,272 @@
 [
-  { "id": "animal", "prompt": "Name an animal", "note": "Any creature, wild or domestic." },
-  { "id": "food", "prompt": "Name something edible", "note": "Food or drink." },
-  { "id": "clothing", "prompt": "Name something you wear", "note": "Clothes or accessories." },
-  { "id": "beach_item", "prompt": "Name something you take to the beach", "note": "Gear for the seaside." },
-  { "id": "flies", "prompt": "Name something that can fly", "note": "Birds, insects, aircraft, kites. Not 'time'." },
-  { "id": "vehicle", "prompt": "Name a vehicle", "note": "Something that carries people or goods." },
-  { "id": "fruit", "prompt": "Name a fruit", "note": "Sweet plant food." },
-  { "id": "drink", "prompt": "Name a drink", "note": "Something you drink." },
-  { "id": "furniture", "prompt": "Name a piece of furniture", "note": "Items for a room." },
-  { "id": "sport", "prompt": "Name a sport or game item", "note": "Equipment used in sport." },
-  { "id": "weather", "prompt": "Name a weather type", "note": "Sun, rain, snow, wind." },
-  { "id": "tool", "prompt": "Name a tool", "note": "Hand tool." },
-  { "id": "toy", "prompt": "Name a toy", "note": "Something to play with." },
-  { "id": "footwear", "prompt": "Name footwear", "note": "Something worn on the feet." },
-  { "id": "headwear", "prompt": "Name headwear", "note": "Something worn on the head." }
+  {
+    "id": "animal",
+    "prompt": "Name an animal",
+    "note": "Any creature, wild or domestic."
+  },
+  {
+    "id": "mammal",
+    "prompt": "Name a mammal",
+    "note": "Warm-blooded animal with fur."
+  },
+  {
+    "id": "bird",
+    "prompt": "Name a bird",
+    "note": "Feathered animal."
+  },
+  {
+    "id": "insect",
+    "prompt": "Name an insect",
+    "note": "Small crawling or flying bug."
+  },
+  {
+    "id": "fish",
+    "prompt": "Name a fish or sea creature",
+    "note": "Lives in water."
+  },
+  {
+    "id": "pet",
+    "prompt": "Name a common pet",
+    "note": "Animal kept at home."
+  },
+  {
+    "id": "fruit",
+    "prompt": "Name a fruit",
+    "note": "Sweet plant food."
+  },
+  {
+    "id": "vegetable",
+    "prompt": "Name a vegetable",
+    "note": "Savory plant food."
+  },
+  {
+    "id": "food",
+    "prompt": "Name something edible",
+    "note": "Food or drink."
+  },
+  {
+    "id": "drink",
+    "prompt": "Name a drink",
+    "note": "Something you drink."
+  },
+  {
+    "id": "dessert",
+    "prompt": "Name a dessert",
+    "note": "Sweet treat."
+  },
+  {
+    "id": "breakfast",
+    "prompt": "Name a breakfast food",
+    "note": "Eaten in the morning."
+  },
+  {
+    "id": "snack",
+    "prompt": "Name a snack",
+    "note": "Small bite between meals."
+  },
+  {
+    "id": "meat",
+    "prompt": "Name a meat",
+    "note": "Animal flesh eaten as food."
+  },
+  {
+    "id": "dairy",
+    "prompt": "Name a dairy product",
+    "note": "Made from milk."
+  },
+  {
+    "id": "grain",
+    "prompt": "Name a grain",
+    "note": "Wheat, rice, oats, corn."
+  },
+  {
+    "id": "seafood",
+    "prompt": "Name a seafood",
+    "note": "Edible sea life."
+  },
+  {
+    "id": "spice",
+    "prompt": "Name a spice or herb",
+    "note": "Used to flavor food."
+  },
+  {
+    "id": "clothing",
+    "prompt": "Name something you wear",
+    "note": "Clothes or accessories."
+  },
+  {
+    "id": "footwear",
+    "prompt": "Name footwear",
+    "note": "Worn on the feet."
+  },
+  {
+    "id": "headwear",
+    "prompt": "Name headwear",
+    "note": "Worn on the head."
+  },
+  {
+    "id": "outerwear",
+    "prompt": "Name outerwear",
+    "note": "Worn over other clothes."
+  },
+  {
+    "id": "accessory",
+    "prompt": "Name an accessory",
+    "note": "Belt, bag, watch, scarf."
+  },
+  {
+    "id": "jewelry",
+    "prompt": "Name a piece of jewelry",
+    "note": "Ring, necklace, watch."
+  },
+  {
+    "id": "furniture",
+    "prompt": "Name a piece of furniture",
+    "note": "Items for a room."
+  },
+  {
+    "id": "appliance",
+    "prompt": "Name a household appliance",
+    "note": "Machine used at home."
+  },
+  {
+    "id": "kitchen_item",
+    "prompt": "Name a kitchen item",
+    "note": "Tool for cooking or eating."
+  },
+  {
+    "id": "cleaning_tool",
+    "prompt": "Name a cleaning tool",
+    "note": "Used to clean the home."
+  },
+  {
+    "id": "room",
+    "prompt": "Name a room in a house",
+    "note": "Bedroom, kitchen, etc."
+  },
+  {
+    "id": "electronic",
+    "prompt": "Name an electronic device",
+    "note": "Runs on electricity."
+  },
+  {
+    "id": "vehicle",
+    "prompt": "Name a vehicle",
+    "note": "Carries people or goods."
+  },
+  {
+    "id": "beach_item",
+    "prompt": "Name something you take to the beach",
+    "note": "Gear for the seaside."
+  },
+  {
+    "id": "luggage",
+    "prompt": "Name a piece of luggage",
+    "note": "Suitcase, bag, backpack."
+  },
+  {
+    "id": "place",
+    "prompt": "Name a place",
+    "note": "A location you can go to."
+  },
+  {
+    "id": "city",
+    "prompt": "Name a city",
+    "note": "A large town."
+  },
+  {
+    "id": "country",
+    "prompt": "Name a country",
+    "note": "A nation."
+  },
+  {
+    "id": "building",
+    "prompt": "Name a building",
+    "note": "A constructed structure."
+  },
+  {
+    "id": "store",
+    "prompt": "Name a store or shop",
+    "note": "Where you buy things."
+  },
+  {
+    "id": "sport",
+    "prompt": "Name a sport",
+    "note": "Game or athletic activity."
+  },
+  {
+    "id": "sport_equipment",
+    "prompt": "Name a piece of sports equipment",
+    "note": "Ball, bat, racket, etc."
+  },
+  {
+    "id": "toy",
+    "prompt": "Name a toy",
+    "note": "Something to play with."
+  },
+  {
+    "id": "game",
+    "prompt": "Name a game",
+    "note": "Board game, card game, video game."
+  },
+  {
+    "id": "musical_instrument",
+    "prompt": "Name a musical instrument",
+    "note": "Makes music."
+  },
+  {
+    "id": "weather",
+    "prompt": "Name a weather type",
+    "note": "Sun, rain, snow, wind."
+  },
+  {
+    "id": "season",
+    "prompt": "Name a season",
+    "note": "Spring, summer, fall, winter."
+  },
+  {
+    "id": "job",
+    "prompt": "Name a job",
+    "note": "Kind of work people do."
+  },
+  {
+    "id": "profession",
+    "prompt": "Name a profession",
+    "note": "Skilled occupation."
+  },
+  {
+    "id": "activity",
+    "prompt": "Name an activity",
+    "note": "Something people do."
+  },
+  {
+    "id": "hobby",
+    "prompt": "Name a hobby",
+    "note": "Done for pleasure."
+  },
+  {
+    "id": "action",
+    "prompt": "Name an action verb",
+    "note": "Something you do."
+  },
+  {
+    "id": "body_part",
+    "prompt": "Name a body part",
+    "note": "Part of the human body."
+  },
+  {
+    "id": "color",
+    "prompt": "Name a color",
+    "note": "Red, blue, green, etc."
+  },
+  {
+    "id": "shape",
+    "prompt": "Name a shape",
+    "note": "Circle, square, triangle."
+  },
+  {
+    "id": "flies",
+    "prompt": "Name something that can fly",
+    "note": "Birds, insects, aircraft, kites. Not 'time'."
+  }
 ]

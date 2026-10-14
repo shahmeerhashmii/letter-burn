@@ -1,0 +1,8 @@
+word,tag,reason
+whale,fish,"A whale is a mammal, not a fish; keep out of fish/seafood unless intended as seafood-adjacent."
+tomato,vegetable,"Botanically a fruit; commonly treated as a vegetable. Confirm tag."
+bat,animal,"The word bat is ambiguous (animal vs sports equipment). Confirm tags."
+orange,color,"Orange is both a color and a fruit. Confirm intent."
+corn,vegetable,"Corn is botanically a grain/fruit; commonly a vegetable. Confirm."
+egg,food,"Egg is animal product; confirm meat/dairy/food tags."
+mushroom,vegetable,"Mushroom is a fungus, not a vegetable; confirm tag."
