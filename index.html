@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#15181F">
+<meta name="description" content="A daily word game. Every word costs you letters.">
+<title>Letter Burn</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/big-shoulders-display-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- HOME -->
+  <section id="home" class="screen" hidden>
+    <div class="home-top">
+      <h1 class="logo big">Letter<br><span>Burn</span></h1>
+      <div class="striker" aria-hidden="true"></div>
+      <p class="tagline" data-text="tagline"></p>
+    </div>
+
+    <div class="today-card">
+      <div class="today-meta"><b id="homeNum"></b><span id="homeDate"></span></div>
+      <p id="homeNote" class="home-note"></p>
+      <button class="btn p big-btn" id="playBtn">Play</button>
+      <p class="countdown-line" id="homeCountdownLine" hidden>Next puzzle in <b data-countdown></b></p>
+    </div>
+
+    <div class="home-stats">
+      <div><b id="hsStreak">0</b>day streak</div>
+      <div><b id="hsPlayed">0</b>played</div>
+      <div><b id="hsBest">–</b>best score</div>
+    </div>
+
+    <nav class="home-links">
+      <button class="link" data-open="howto">How to play</button>
+      <button class="link" id="practiceLink">Practice</button>
+      <button class="link" id="historyLink">Past results</button>
+    </nav>
+
+    <div class="matches-deco" aria-hidden="true">
+      <i></i><i></i><i></i><i></i><i></i><i class="spent"></i><i class="spent"></i>
+    </div>
+  </section>
+
+  <!-- GAME -->
+  <section id="game" class="screen" hidden>
+    <header class="top">
+      <button class="logo small home-btn" id="homeBtn" aria-label="Back to home">Letter<br><span>Burn</span></button>
+      <div class="day"><b id="gNum"></b><span id="gSub"></span></div>
+    </header>
+    <div class="striker" aria-hidden="true"></div>
+
+    <section class="stats" aria-label="Game status">
+      <div class="stat"><small>Cleared</small><strong id="sCleared">0/5</strong></div>
+      <div class="stat"><small>Borrows</small><div class="borrows" id="sBorrows"></div></div>
+      <div class="stat"><small>Score</small><strong id="sScore">130</strong></div>
+    </section>
+
+    <section class="prompts" id="prompts" aria-label="Prompts">
+      <div class="stamp" id="stamp" aria-hidden="true">Double Duty</div>
+    </section>
+
+    <section class="answer">
+      <div class="typed" id="typed" aria-hidden="true"></div>
+      <p class="hint" id="hint" aria-live="polite"></p>
+    </section>
+
+    <div class="foot">
+      <button class="link" data-open="howto">How to play</button>
+      <button class="link" id="doneBtn">I'm done</button>
+    </div>
+
+    <section class="kb" id="kb" aria-label="Letters"></section>
+  </section>
+
+  <!-- HISTORY -->
+  <section id="history" class="screen" hidden>
+    <header class="top">
+      <button class="logo small home-btn" data-home aria-label="Back to home">Letter<br><span>Burn</span></button>
+      <div class="day"><b>Past</b>results</div>
+    </header>
+    <div class="striker" aria-hidden="true"></div>
+    <ol class="history-list" id="historyList"></ol>
+    <p class="empty" id="historyEmpty" hidden>Nothing here yet. Play today's puzzle and it'll show up.</p>
+    <button class="btn s" data-home>Back</button>
+  </section>
+</div>
+
+<!-- RESULTS SHEET -->
+<div class="over" id="results" role="dialog" aria-modal="true" aria-labelledby="rNum" hidden>
+  <div class="sheet">
+    <div class="sheet-head">
+      <div class="num" id="rNum"></div>
+      <button class="x" data-close aria-label="Close">✕</button>
+    </div>
+    <div class="big" id="rScore">0</div>
+    <div class="line" id="rLine"></div>
+    <div class="par" id="rPar"></div>
+    <div class="grid" id="rGrid" aria-label="Letters saved and burned"></div>
+    <div class="row3">
+      <div><b id="rSaved">0</b>saved</div>
+      <div><b id="rDouble">0</b>double duty</div>
+      <div><b id="rBorrow">0</b>borrowed</div>
+      <div><b id="rStreak">0</b>streak</div>
+    </div>
+    <ul class="used" id="rWords"></ul>
+    <p class="route" id="rRoute"></p>
+    <div class="btns">
+      <button class="btn p" id="shareBtn">Share</button>
+      <button class="btn s" id="sheetSecondary">Practice</button>
+    </div>
+    <p class="countdown-line" id="rCountdown">Next puzzle in <b data-countdown></b></p>
+    <button class="link center" id="sheetHistory">Past results</button>
+  </div>
+</div>
+
+<!-- HOW TO PLAY -->
+<div class="over" id="howto" role="dialog" aria-modal="true" aria-labelledby="howTitle" hidden>
+  <div class="sheet">
+    <div class="sheet-head">
+      <h2 id="howTitle" class="num">HOW TO PLAY</h2>
+      <button class="x" data-close aria-label="Close">✕</button>
+    </div>
+    <ol class="steps">
+      <li><b>1</b>Answer five everyday prompts.</li>
+      <li><b>2</b>Every letter you use burns for the rest of the game.</li>
+      <li><b>3</b>One word can clear two prompts at once.</li>
+      <li><b>4</b>Save as many letters as you can.</li>
+    </ol>
+    <div class="demo" aria-label="Example: FISH clears Name an animal and Something you can eat">
+      <div class="demo-prompts">
+        <span>Name an animal</span><span>Something you can eat</span>
+      </div>
+      <div class="demo-tiles"><i>F</i><i>I</i><i>S</i><i>H</i></div>
+      <p class="demo-cap">FISH clears both and burns F, I, S, H.</p>
+    </div>
+    <p class="small-print">Used a letter already? You can borrow it back up to 3 times, for 8 points each.
+      Score: 100 per prompt, plus 5 for every letter left standing.</p>
+    <button class="btn p" data-close>Got it</button>
+  </div>
+</div>
+
+<div class="sr-only" aria-live="assertive" id="announce"></div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
