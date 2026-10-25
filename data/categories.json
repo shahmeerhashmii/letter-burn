@@ -1,0 +1,458 @@
+[
+ {
+  "id": "fruit",
+  "prompt": "Name a fruit",
+  "group": "Food and drink",
+  "note": "Everyday fruits. Botanical edge cases (tomato, avocado) flagged.",
+  "minAnswers": 60,
+  "answers": 96
+ },
+ {
+  "id": "vegetable",
+  "prompt": "Name a vegetable",
+  "group": "Food and drink",
+  "note": "Everyday vegetables, incl. culinary ones like peppers and squash.",
+  "minAnswers": 60,
+  "answers": 110
+ },
+ {
+  "id": "drink",
+  "prompt": "Name a drink",
+  "group": "Food and drink",
+  "note": "Anything people drink, hot or cold, incl. alcoholic drinks.",
+  "minAnswers": 120,
+  "answers": 143
+ },
+ {
+  "id": "dessert",
+  "prompt": "Name a dessert",
+  "group": "Food and drink",
+  "note": "Sweets and desserts from any cuisine.",
+  "minAnswers": 120,
+  "answers": 171
+ },
+ {
+  "id": "breakfast",
+  "prompt": "Name a breakfast food",
+  "group": "Food and drink",
+  "note": "Things people commonly eat or drink at breakfast.",
+  "minAnswers": 60,
+  "answers": 109
+ },
+ {
+  "id": "snack",
+  "prompt": "Name a snack",
+  "group": "Food and drink",
+  "note": "Things you'd grab between meals.",
+  "minAnswers": 120,
+  "answers": 124
+ },
+ {
+  "id": "pizza_topping",
+  "prompt": "Name a pizza topping",
+  "group": "Food and drink",
+  "note": "Things people put on pizza.",
+  "minAnswers": 60,
+  "answers": 90
+ },
+ {
+  "id": "condiment",
+  "prompt": "Name something you put on food",
+  "group": "Food and drink",
+  "note": "Sauces, spreads, seasonings and toppings.",
+  "minAnswers": 120,
+  "answers": 157
+ },
+ {
+  "id": "food",
+  "prompt": "Name something you can eat",
+  "group": "Food and drink",
+  "note": "Anything edible. Also includes every fruit, vegetable, dessert, breakfast food, snack and pizza topping (drinks excluded).",
+  "minAnswers": 200,
+  "answers": 917
+ },
+ {
+  "id": "pet",
+  "prompt": "Name a pet",
+  "group": "Animals and nature",
+  "note": "Common pets, incl. popular dog and cat breeds.",
+  "minAnswers": 60,
+  "answers": 132
+ },
+ {
+  "id": "farm_animal",
+  "prompt": "Name a farm animal",
+  "group": "Animals and nature",
+  "note": "Animals people raise on farms.",
+  "minAnswers": 40,
+  "answers": 73
+ },
+ {
+  "id": "sea_creature",
+  "prompt": "Name a sea creature",
+  "group": "Animals and nature",
+  "note": "Anything that lives in the ocean. Coral and sponges counted here but not as 'animal'.",
+  "minAnswers": 60,
+  "answers": 118
+ },
+ {
+  "id": "bird",
+  "prompt": "Name a bird",
+  "group": "Animals and nature",
+  "note": "Birds, wild and domestic.",
+  "minAnswers": 120,
+  "answers": 170
+ },
+ {
+  "id": "bug",
+  "prompt": "Name a bug or insect",
+  "group": "Animals and nature",
+  "note": "Insects plus spiders, worms and other creepy crawlies people call bugs.",
+  "minAnswers": 60,
+  "answers": 99
+ },
+ {
+  "id": "zoo_animal",
+  "prompt": "Name an animal you'd see at a zoo",
+  "group": "Animals and nature",
+  "note": "Wild animals typically kept in zoos.",
+  "minAnswers": 120,
+  "answers": 171
+ },
+ {
+  "id": "animal",
+  "prompt": "Name an animal",
+  "group": "Animals and nature",
+  "note": "Any animal. Also includes every pet, farm animal, sea creature, bird, bug and zoo animal.",
+  "minAnswers": 300,
+  "answers": 694
+ },
+ {
+  "id": "flies",
+  "prompt": "Name something that can fly",
+  "group": "Animals and nature",
+  "note": "Flying birds, flying insects, bats, aircraft and things like kites. Includes every bird that can fly.",
+  "minAnswers": 120,
+  "answers": 233
+ },
+ {
+  "id": "kitchen",
+  "prompt": "Name something in a kitchen",
+  "group": "Home and objects",
+  "note": "Appliances, cookware, utensils and kitchen furniture.",
+  "minAnswers": 120,
+  "answers": 186
+ },
+ {
+  "id": "bathroom",
+  "prompt": "Name something in a bathroom",
+  "group": "Home and objects",
+  "note": "Fixtures, toiletries and bathroom stuff.",
+  "minAnswers": 120,
+  "answers": 125
+ },
+ {
+  "id": "furniture",
+  "prompt": "Name a piece of furniture",
+  "group": "Home and objects",
+  "note": "Furniture for home, office and outdoors.",
+  "minAnswers": 60,
+  "answers": 122
+ },
+ {
+  "id": "tool",
+  "prompt": "Name a tool",
+  "group": "Home and objects",
+  "note": "Hand tools, power tools and garden tools.",
+  "minAnswers": 120,
+  "answers": 159
+ },
+ {
+  "id": "toy",
+  "prompt": "Name a toy",
+  "group": "Home and objects",
+  "note": "Toys for kids of any age.",
+  "minAnswers": 120,
+  "answers": 147
+ },
+ {
+  "id": "game",
+  "prompt": "Name a game",
+  "group": "Home and objects",
+  "note": "Board, card, party, playground and well-known video games.",
+  "minAnswers": 120,
+  "answers": 196
+ },
+ {
+  "id": "instrument",
+  "prompt": "Name a musical instrument",
+  "group": "Home and objects",
+  "note": "Musical instruments from anywhere.",
+  "minAnswers": 60,
+  "answers": 135
+ },
+ {
+  "id": "school_supply",
+  "prompt": "Name a school supply",
+  "group": "Home and objects",
+  "note": "Things kids bring to or use at school.",
+  "minAnswers": 80,
+  "answers": 122
+ },
+ {
+  "id": "plug_in",
+  "prompt": "Name something you plug in or charge",
+  "group": "Home and objects",
+  "note": "Electronics and appliances that run on a plug or battery charge.",
+  "minAnswers": 120,
+  "answers": 170
+ },
+ {
+  "id": "headwear",
+  "prompt": "Name something you wear on your head",
+  "group": "Clothing",
+  "note": "Hats, helmets and head coverings.",
+  "minAnswers": 50,
+  "answers": 102
+ },
+ {
+  "id": "footwear",
+  "prompt": "Name something you wear on your feet",
+  "group": "Clothing",
+  "note": "Shoes, boots, sandals and socks.",
+  "minAnswers": 50,
+  "answers": 99
+ },
+ {
+  "id": "accessory",
+  "prompt": "Name a piece of jewellery or an accessory",
+  "group": "Clothing",
+  "note": "Jewellery, eyewear and worn accessories.",
+  "minAnswers": 60,
+  "answers": 111
+ },
+ {
+  "id": "clothing",
+  "prompt": "Name something you wear",
+  "group": "Clothing",
+  "note": "Any clothing. Also includes everything worn on the head or feet and all jewellery and accessories.",
+  "minAnswers": 200,
+  "answers": 446
+ },
+ {
+  "id": "vehicle",
+  "prompt": "Name a vehicle",
+  "group": "Travel and places",
+  "note": "Anything that carries people or things, on land, water, air or space.",
+  "minAnswers": 120,
+  "answers": 188
+ },
+ {
+  "id": "has_wheels",
+  "prompt": "Name something with wheels",
+  "group": "Travel and places",
+  "note": "Vehicles and everyday things that roll on wheels.",
+  "minAnswers": 80,
+  "answers": 107
+ },
+ {
+  "id": "beach_item",
+  "prompt": "Name something you bring to the beach",
+  "group": "Travel and places",
+  "note": "Things people pack for a beach day.",
+  "minAnswers": 80,
+  "answers": 124
+ },
+ {
+  "id": "camping",
+  "prompt": "Name something you take camping",
+  "group": "Travel and places",
+  "note": "Gear and supplies for a camping trip.",
+  "minAnswers": 80,
+  "answers": 154
+ },
+ {
+  "id": "country",
+  "prompt": "Name a country",
+  "group": "Travel and places",
+  "note": "Countries plus the UK nations and common short names.",
+  "minAnswers": 150,
+  "answers": 207
+ },
+ {
+  "id": "city",
+  "prompt": "Name a city",
+  "group": "Travel and places",
+  "note": "Well-known world cities and Canadian cities.",
+  "minAnswers": 150,
+  "answers": 328
+ },
+ {
+  "id": "place_in_town",
+  "prompt": "Name a place in town",
+  "group": "Travel and places",
+  "note": "Buildings and spots you'd find in a town or city.",
+  "minAnswers": 120,
+  "answers": 190
+ },
+ {
+  "id": "room",
+  "prompt": "Name a room in a house",
+  "group": "Travel and places",
+  "note": "Rooms and spaces inside a home.",
+  "minAnswers": 40,
+  "answers": 77
+ },
+ {
+  "id": "nature_place",
+  "prompt": "Name a place in nature",
+  "group": "Travel and places",
+  "note": "Landforms, bodies of water and natural places.",
+  "minAnswers": 80,
+  "answers": 141
+ },
+ {
+  "id": "sport",
+  "prompt": "Name a sport",
+  "group": "Sports and activities",
+  "note": "Sports and athletic events.",
+  "minAnswers": 120,
+  "answers": 194
+ },
+ {
+  "id": "sports_gear",
+  "prompt": "Name a piece of sports equipment",
+  "group": "Sports and activities",
+  "note": "Gear, balls and equipment used in sports and the gym.",
+  "minAnswers": 120,
+  "answers": 204
+ },
+ {
+  "id": "hobby",
+  "prompt": "Name a hobby",
+  "group": "Sports and activities",
+  "note": "Things people do for fun in their spare time.",
+  "minAnswers": 120,
+  "answers": 199
+ },
+ {
+  "id": "weather",
+  "prompt": "Name something to do with weather",
+  "group": "Weather and seasons",
+  "note": "Weather conditions, events and words.",
+  "minAnswers": 120,
+  "answers": 147
+ },
+ {
+  "id": "winter",
+  "prompt": "Name something about winter",
+  "group": "Weather and seasons",
+  "note": "Winter weather, gear, sports, food and holidays.",
+  "minAnswers": 120,
+  "answers": 163
+ },
+ {
+  "id": "summer",
+  "prompt": "Name something about summer",
+  "group": "Weather and seasons",
+  "note": "Summer weather, activities, food and holidays.",
+  "minAnswers": 120,
+  "answers": 169
+ },
+ {
+  "id": "party",
+  "prompt": "Name something at a party",
+  "group": "Weather and seasons",
+  "note": "Things you'd see or do at a party.",
+  "minAnswers": 120,
+  "answers": 165
+ },
+ {
+  "id": "job",
+  "prompt": "Name a job",
+  "group": "People and body",
+  "note": "Jobs and occupations.",
+  "minAnswers": 120,
+  "answers": 303
+ },
+ {
+  "id": "body_part",
+  "prompt": "Name a part of the body",
+  "group": "People and body",
+  "note": "Outside and inside body parts.",
+  "minAnswers": 120,
+  "answers": 185
+ },
+ {
+  "id": "feeling",
+  "prompt": "Name a feeling",
+  "group": "People and body",
+  "note": "Emotions and moods.",
+  "minAnswers": 120,
+  "answers": 221
+ },
+ {
+  "id": "colour",
+  "prompt": "Name a colour",
+  "group": "Describing things",
+  "note": "Basic and fancy colour names. Both spellings of colour/gray accepted in the word.",
+  "minAnswers": 120,
+  "answers": 165
+ },
+ {
+  "id": "flower_plant",
+  "prompt": "Name a flower or plant",
+  "group": "Animals and nature",
+  "note": "Flowers, houseplants and garden plants.",
+  "minAnswers": 120,
+  "answers": 151
+ },
+ {
+  "id": "tree",
+  "prompt": "Name a kind of tree",
+  "group": "Animals and nature",
+  "note": "Kinds of trees, incl. fruit and nut trees.",
+  "minAnswers": 60,
+  "answers": 141
+ },
+ {
+  "id": "garden",
+  "prompt": "Name something in a garden or backyard",
+  "group": "Animals and nature",
+  "note": "Plants, tools, critters and stuff in a garden or yard.",
+  "minAnswers": 120,
+  "answers": 181
+ },
+ {
+  "id": "red_thing",
+  "prompt": "Name something red",
+  "group": "Describing things",
+  "note": "Things that are usually or famously red.",
+  "minAnswers": 60,
+  "answers": 129
+ },
+ {
+  "id": "round_thing",
+  "prompt": "Name something round",
+  "group": "Describing things",
+  "note": "Things that are round or ball-shaped.",
+  "minAnswers": 60,
+  "answers": 161
+ },
+ {
+  "id": "cold_thing",
+  "prompt": "Name something cold",
+  "group": "Describing things",
+  "note": "Things that are cold or keep things cold.",
+  "minAnswers": 60,
+  "answers": 115
+ },
+ {
+  "id": "hot_thing",
+  "prompt": "Name something hot",
+  "group": "Describing things",
+  "note": "Things that are hot or spicy-hot.",
+  "minAnswers": 60,
+  "answers": 152
+ }
+]
