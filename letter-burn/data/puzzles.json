@@ -1,0 +1,1588 @@
+{
+ "2026-11-09": {
+  "prompts": [
+   "garden",
+   "headwear",
+   "winter",
+   "vegetable",
+   "cold_thing"
+  ],
+  "par": 575,
+  "route": [
+   "scarf",
+   "beet",
+   "pool"
+  ],
+  "routes": 60,
+  "number": 1
+ },
+ "2026-11-10": {
+  "prompts": [
+   "party",
+   "pizza_topping",
+   "room",
+   "sea_creature",
+   "nature_place"
+  ],
+  "par": 570,
+  "route": [
+   "tuna",
+   "gym",
+   "hill",
+   "pop"
+  ],
+  "routes": 60,
+  "number": 2
+ },
+ "2026-11-11": {
+  "prompts": [
+   "round_thing",
+   "vehicle",
+   "furniture",
+   "dessert",
+   "zoo_animal"
+  ],
+  "par": 570,
+  "route": [
+   "pie",
+   "cot",
+   "gnu",
+   "kayak"
+  ],
+  "routes": 60,
+  "number": 3
+ },
+ "2026-11-12": {
+  "prompts": [
+   "snack",
+   "bird",
+   "tool",
+   "fruit",
+   "tree"
+  ],
+  "par": 580,
+  "route": [
+   "kiwi",
+   "apple",
+   "nut"
+  ],
+  "routes": 43,
+  "number": 4
+ },
+ "2026-11-13": {
+  "prompts": [
+   "footwear",
+   "animal",
+   "plug_in",
+   "has_wheels",
+   "hobby"
+  ],
+  "par": 565,
+  "route": [
+   "docs",
+   "bike",
+   "fan",
+   "pup"
+  ],
+  "routes": 59,
+  "number": 5
+ },
+ "2026-11-14": {
+  "prompts": [
+   "condiment",
+   "game",
+   "flower_plant",
+   "kitchen",
+   "clothing"
+  ],
+  "par": 585,
+  "route": [
+   "dill",
+   "spoons",
+   "tutu"
+  ],
+  "routes": 60,
+  "number": 6
+ },
+ "2026-11-15": {
+  "prompts": [
+   "sports_gear",
+   "farm_animal",
+   "school_supply",
+   "bug",
+   "sport"
+  ],
+  "par": 575,
+  "route": [
+   "bee",
+   "hat",
+   "skis",
+   "polo"
+  ],
+  "routes": 60,
+  "number": 7
+ },
+ "2026-11-16": {
+  "prompts": [
+   "red_thing",
+   "summer",
+   "camping",
+   "hot_thing",
+   "country"
+  ],
+  "par": 585,
+  "route": [
+   "salsa",
+   "tent",
+   "fiji"
+  ],
+  "routes": 60,
+  "number": 8
+ },
+ "2026-11-17": {
+  "prompts": [
+   "toy",
+   "instrument",
+   "food",
+   "drink",
+   "accessory"
+  ],
+  "par": 565,
+  "route": [
+   "bass",
+   "pin",
+   "rum",
+   "egg",
+   "yo yo"
+  ],
+  "routes": 60,
+  "number": 9
+ },
+ "2026-11-18": {
+  "prompts": [
+   "colour",
+   "beach_item",
+   "summer",
+   "breakfast",
+   "city"
+  ],
+  "par": 580,
+  "route": [
+   "coffee",
+   "kayak",
+   "tub"
+  ],
+  "routes": 60,
+  "number": 10
+ },
+ "2026-11-19": {
+  "prompts": [
+   "body_part",
+   "flies",
+   "weather",
+   "bathroom",
+   "winter"
+  ],
+  "par": 570,
+  "route": [
+   "lid",
+   "snow",
+   "bee",
+   "arm"
+  ],
+  "routes": 60,
+  "number": 11
+ },
+ "2026-11-20": {
+  "prompts": [
+   "job",
+   "pet",
+   "place_in_town",
+   "hobby",
+   "beach_item"
+  ],
+  "par": 580,
+  "route": [
+   "pup",
+   "cards",
+   "vet"
+  ],
+  "routes": 60,
+  "number": 12
+ },
+ "2026-11-21": {
+  "prompts": [
+   "footwear",
+   "red_thing",
+   "fruit",
+   "vehicle",
+   "hot_thing"
+  ],
+  "par": 570,
+  "route": [
+   "fig",
+   "boot",
+   "jeep",
+   "salsa"
+  ],
+  "routes": 60,
+  "number": 13
+ },
+ "2026-11-22": {
+  "prompts": [
+   "pet",
+   "sport",
+   "zoo_animal",
+   "has_wheels",
+   "kitchen"
+  ],
+  "par": 575,
+  "route": [
+   "frog",
+   "bike",
+   "pan"
+  ],
+  "routes": 60,
+  "number": 14
+ },
+ "2026-11-23": {
+  "prompts": [
+   "pizza_topping",
+   "school_supply",
+   "clothing",
+   "feeling",
+   "place_in_town"
+  ],
+  "par": 580,
+  "route": [
+   "egg",
+   "hat",
+   "inn",
+   "low"
+  ],
+  "routes": 60,
+  "number": 15
+ },
+ "2026-11-24": {
+  "prompts": [
+   "flies",
+   "condiment",
+   "party",
+   "bug",
+   "accessory"
+  ],
+  "par": 590,
+  "route": [
+   "bee",
+   "dip",
+   "kara"
+  ],
+  "routes": 60,
+  "number": 16
+ },
+ "2026-11-25": {
+  "prompts": [
+   "plug_in",
+   "toy",
+   "sports_gear",
+   "food",
+   "weather"
+  ],
+  "par": 575,
+  "route": [
+   "ball",
+   "mic",
+   "hot",
+   "egg"
+  ],
+  "routes": 60,
+  "number": 17
+ },
+ "2026-11-26": {
+  "prompts": [
+   "colour",
+   "flower_plant",
+   "headwear",
+   "drink",
+   "vegetable"
+  ],
+  "par": 575,
+  "route": [
+   "wig",
+   "pepper",
+   "cocoa",
+   "mum"
+  ],
+  "routes": 28,
+  "number": 18
+ },
+ "2026-11-27": {
+  "prompts": [
+   "country",
+   "dessert",
+   "furniture",
+   "room",
+   "garden"
+  ],
+  "par": 560,
+  "route": [
+   "gym",
+   "tart",
+   "fiji",
+   "bench"
+  ],
+  "routes": 32,
+  "number": 19
+ },
+ "2026-11-28": {
+  "prompts": [
+   "feeling",
+   "camping",
+   "breakfast",
+   "snack",
+   "bathroom"
+  ],
+  "par": 575,
+  "route": [
+   "banana",
+   "towel",
+   "shy"
+  ],
+  "routes": 60,
+  "number": 20
+ },
+ "2026-11-29": {
+  "prompts": [
+   "body_part",
+   "round_thing",
+   "instrument",
+   "sea_creature",
+   "weather"
+  ],
+  "par": 575,
+  "route": [
+   "bass",
+   "gull",
+   "hot",
+   "eye"
+  ],
+  "routes": 60,
+  "number": 21
+ },
+ "2026-11-30": {
+  "prompts": [
+   "fruit",
+   "animal",
+   "party",
+   "toy",
+   "summer"
+  ],
+  "par": 590,
+  "route": [
+   "kiwi",
+   "yo yo",
+   "tent"
+  ],
+  "routes": 60,
+  "number": 22
+ },
+ "2026-12-01": {
+  "prompts": [
+   "bird",
+   "nature_place",
+   "instrument",
+   "furniture",
+   "pet"
+  ],
+  "par": 565,
+  "route": [
+   "gong",
+   "duck",
+   "pew",
+   "hill"
+  ],
+  "routes": 60,
+  "number": 23
+ },
+ "2026-12-02": {
+  "prompts": [
+   "has_wheels",
+   "game",
+   "farm_animal",
+   "zoo_animal",
+   "tool"
+  ],
+  "par": 580,
+  "route": [
+   "pig",
+   "dolly",
+   "bat"
+  ],
+  "routes": 60,
+  "number": 24
+ },
+ "2026-12-03": {
+  "prompts": [
+   "plug_in",
+   "sea_creature",
+   "cold_thing",
+   "city",
+   "bug"
+  ],
+  "par": 575,
+  "route": [
+   "bee",
+   "gull",
+   "fan",
+   "rio"
+  ],
+  "routes": 60,
+  "number": 25
+ },
+ "2026-12-04": {
+  "prompts": [
+   "hot_thing",
+   "camping",
+   "accessory",
+   "place_in_town",
+   "job"
+  ],
+  "par": 585,
+  "route": [
+   "cuff",
+   "pan",
+   "vet"
+  ],
+  "routes": 60,
+  "number": 26
+ },
+ "2026-12-05": {
+  "prompts": [
+   "farm_animal",
+   "bathroom",
+   "bird",
+   "red_thing",
+   "body_part"
+  ],
+  "par": 580,
+  "route": [
+   "hen",
+   "blood",
+   "mat"
+  ],
+  "routes": 60,
+  "number": 27
+ },
+ "2026-12-06": {
+  "prompts": [
+   "round_thing",
+   "hobby",
+   "school_supply",
+   "pizza_topping",
+   "colour"
+  ],
+  "par": 570,
+  "route": [
+   "egg",
+   "cars",
+   "boot",
+   "ink"
+  ],
+  "routes": 45,
+  "number": 28
+ },
+ "2026-12-07": {
+  "prompts": [
+   "kitchen",
+   "food",
+   "cold_thing",
+   "game",
+   "nature_place"
+  ],
+  "par": 585,
+  "route": [
+   "pool",
+   "dam",
+   "eggs"
+  ],
+  "routes": 60,
+  "number": 29
+ },
+ "2026-12-08": {
+  "prompts": [
+   "garden",
+   "tool",
+   "feeling",
+   "city",
+   "winter"
+  ],
+  "par": 575,
+  "route": [
+   "rake",
+   "chill",
+   "tub"
+  ],
+  "routes": 60,
+  "number": 30
+ },
+ "2026-12-09": {
+  "prompts": [
+   "tree",
+   "vegetable",
+   "flower_plant",
+   "vehicle",
+   "footwear"
+  ],
+  "par": 560,
+  "route": [
+   "kicks",
+   "pepper",
+   "holly",
+   "van"
+  ],
+  "routes": 47,
+  "number": 31
+ },
+ "2026-12-10": {
+  "prompts": [
+   "country",
+   "sports_gear",
+   "clothing",
+   "snack",
+   "tool"
+  ],
+  "par": 575,
+  "route": [
+   "banana",
+   "fiji",
+   "goggles"
+  ],
+  "routes": 60,
+  "number": 32
+ },
+ "2026-12-11": {
+  "prompts": [
+   "breakfast",
+   "nature_place",
+   "condiment",
+   "animal",
+   "room"
+  ],
+  "par": 575,
+  "route": [
+   "jam",
+   "den",
+   "hill",
+   "pup"
+  ],
+  "routes": 60,
+  "number": 33
+ },
+ "2026-12-12": {
+  "prompts": [
+   "beach_item",
+   "drink",
+   "plug_in",
+   "bug",
+   "round_thing"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "pop",
+   "lid",
+   "fan"
+  ],
+  "routes": 60,
+  "number": 34
+ },
+ "2026-12-13": {
+  "prompts": [
+   "tree",
+   "sport",
+   "body_part",
+   "garden",
+   "fruit"
+  ],
+  "par": 575,
+  "route": [
+   "fig",
+   "pool",
+   "ash",
+   "eye"
+  ],
+  "routes": 60,
+  "number": 35
+ },
+ "2026-12-14": {
+  "prompts": [
+   "room",
+   "flies",
+   "clothing",
+   "vehicle",
+   "dessert"
+  ],
+  "par": 565,
+  "route": [
+   "gym",
+   "pie",
+   "ufo",
+   "tank"
+  ],
+  "routes": 60,
+  "number": 36
+ },
+ "2026-12-15": {
+  "prompts": [
+   "hobby",
+   "flower_plant",
+   "condiment",
+   "pizza_topping",
+   "beach_item"
+  ],
+  "par": 580,
+  "route": [
+   "onion",
+   "cards",
+   "mum"
+  ],
+  "routes": 60,
+  "number": 37
+ },
+ "2026-12-16": {
+  "prompts": [
+   "accessory",
+   "hot_thing",
+   "colour",
+   "camping",
+   "sports_gear"
+  ],
+  "par": 590,
+  "route": [
+   "mask",
+   "coffee"
+  ],
+  "routes": 60,
+  "number": 38
+ },
+ "2026-12-17": {
+  "prompts": [
+   "job",
+   "party",
+   "farm_animal",
+   "drink",
+   "zoo_animal"
+  ],
+  "par": 595,
+  "route": [
+   "yak",
+   "pop",
+   "nun"
+  ],
+  "routes": 60,
+  "number": 39
+ },
+ "2026-12-18": {
+  "prompts": [
+   "place_in_town",
+   "weather",
+   "game",
+   "has_wheels",
+   "tree"
+  ],
+  "par": 570,
+  "route": [
+   "cab",
+   "fir",
+   "pool",
+   "sun"
+  ],
+  "routes": 60,
+  "number": 40
+ },
+ "2026-12-19": {
+  "prompts": [
+   "winter",
+   "bathroom",
+   "footwear",
+   "headwear",
+   "flies"
+  ],
+  "par": 570,
+  "route": [
+   "hood",
+   "slippers",
+   "bat"
+  ],
+  "routes": 60,
+  "number": 41
+ },
+ "2026-12-20": {
+  "prompts": [
+   "sea_creature",
+   "cold_thing",
+   "kitchen",
+   "red_thing",
+   "city"
+  ],
+  "par": 565,
+  "route": [
+   "cod",
+   "freezer",
+   "jam",
+   "tub"
+  ],
+  "routes": 60,
+  "number": 42
+ },
+ "2026-12-21": {
+  "prompts": [
+   "drink",
+   "toy",
+   "vegetable",
+   "instrument",
+   "zoo_animal"
+  ],
+  "par": 560,
+  "route": [
+   "sax",
+   "yo yo",
+   "pepper",
+   "gin",
+   "cub"
+  ],
+  "routes": 43,
+  "number": 43
+ },
+ "2026-12-22": {
+  "prompts": [
+   "job",
+   "dessert",
+   "snack",
+   "furniture",
+   "summer"
+  ],
+  "par": 575,
+  "route": [
+   "ice pop",
+   "nanny",
+   "rug"
+  ],
+  "routes": 39,
+  "number": 44
+ },
+ "2026-12-23": {
+  "prompts": [
+   "tree",
+   "feeling",
+   "headwear",
+   "animal",
+   "food"
+  ],
+  "par": 575,
+  "route": [
+   "hood",
+   "fir",
+   "sassy",
+   "eel"
+  ],
+  "routes": 60,
+  "number": 45
+ },
+ "2026-12-24": {
+  "prompts": [
+   "toy",
+   "breakfast",
+   "colour",
+   "pet",
+   "school_supply"
+  ],
+  "par": 570,
+  "route": [
+   "egg",
+   "pup",
+   "hat",
+   "yo yo",
+   "ink"
+  ],
+  "routes": 60,
+  "number": 46
+ },
+ "2026-12-25": {
+  "prompts": [
+   "sport",
+   "round_thing",
+   "country",
+   "flower_plant",
+   "animal"
+  ],
+  "par": 580,
+  "route": [
+   "mum",
+   "pool",
+   "fiji",
+   "bee"
+  ],
+  "routes": 60,
+  "number": 47
+ },
+ "2026-12-26": {
+  "prompts": [
+   "beach_item",
+   "footwear",
+   "tool",
+   "dessert",
+   "winter"
+  ],
+  "par": 570,
+  "route": [
+   "fins",
+   "tart",
+   "glove"
+  ],
+  "routes": 21,
+  "number": 48
+ },
+ "2026-12-27": {
+  "prompts": [
+   "bird",
+   "food",
+   "red_thing",
+   "farm_animal",
+   "bathroom"
+  ],
+  "par": 585,
+  "route": [
+   "hen",
+   "lid",
+   "jam"
+  ],
+  "routes": 60,
+  "number": 49
+ },
+ "2026-12-28": {
+  "prompts": [
+   "camping",
+   "breakfast",
+   "flies",
+   "place_in_town",
+   "hot_thing"
+  ],
+  "par": 585,
+  "route": [
+   "coffee",
+   "bat",
+   "inn"
+  ],
+  "routes": 60,
+  "number": 50
+ },
+ "2026-12-29": {
+  "prompts": [
+   "sport",
+   "body_part",
+   "summer",
+   "room",
+   "headwear"
+  ],
+  "par": 570,
+  "route": [
+   "hat",
+   "den",
+   "pool",
+   "rib"
+  ],
+  "routes": 60,
+  "number": 51
+ },
+ "2026-12-30": {
+  "prompts": [
+   "feeling",
+   "furniture",
+   "snack",
+   "bug",
+   "party"
+  ],
+  "par": 575,
+  "route": [
+   "bee",
+   "cot",
+   "dip",
+   "sassy"
+  ],
+  "routes": 60,
+  "number": 52
+ },
+ "2026-12-31": {
+  "prompts": [
+   "pet",
+   "bird",
+   "sports_gear",
+   "hobby",
+   "cold_thing"
+  ],
+  "par": 570,
+  "route": [
+   "owl",
+   "fan",
+   "bike",
+   "pup"
+  ],
+  "routes": 60,
+  "number": 53
+ },
+ "2027-01-01": {
+  "prompts": [
+   "weather",
+   "vehicle",
+   "plug_in",
+   "city",
+   "game"
+  ],
+  "par": 570,
+  "route": [
+   "sun",
+   "yo yo",
+   "e bike",
+   "accra"
+  ],
+  "routes": 60,
+  "number": 54
+ },
+ "2027-01-02": {
+  "prompts": [
+   "school_supply",
+   "fruit",
+   "garden",
+   "clothing",
+   "kitchen"
+  ],
+  "par": 575,
+  "route": [
+   "fig",
+   "hat",
+   "cook",
+   "bee"
+  ],
+  "routes": 60,
+  "number": 55
+ },
+ "2027-01-03": {
+  "prompts": [
+   "vegetable",
+   "accessory",
+   "pizza_topping",
+   "nature_place",
+   "has_wheels"
+  ],
+  "par": 570,
+  "route": [
+   "onion",
+   "jeep",
+   "dam",
+   "cuff"
+  ],
+  "routes": 60,
+  "number": 56
+ },
+ "2027-01-04": {
+  "prompts": [
+   "clothing",
+   "dessert",
+   "party",
+   "pet",
+   "game"
+  ],
+  "par": 585,
+  "route": [
+   "pig",
+   "cake",
+   "tutu"
+  ],
+  "routes": 60,
+  "number": 57
+ },
+ "2027-01-05": {
+  "prompts": [
+   "country",
+   "condiment",
+   "sea_creature",
+   "flower_plant",
+   "drink"
+  ],
+  "par": 570,
+  "route": [
+   "eel",
+   "pop",
+   "mint",
+   "chad"
+  ],
+  "routes": 60,
+  "number": 58
+ },
+ "2027-01-06": {
+  "prompts": [
+   "zoo_animal",
+   "camping",
+   "sports_gear",
+   "farm_animal",
+   "round_thing"
+  ],
+  "par": 585,
+  "route": [
+   "emu",
+   "ball",
+   "food"
+  ],
+  "routes": 60,
+  "number": 59
+ },
+ "2027-01-07": {
+  "prompts": [
+   "cold_thing",
+   "food",
+   "colour",
+   "job",
+   "place_in_town"
+  ],
+  "par": 580,
+  "route": [
+   "fan",
+   "plum",
+   "vet"
+  ],
+  "routes": 60,
+  "number": 60
+ },
+ "2027-01-08": {
+  "prompts": [
+   "nature_place",
+   "feeling",
+   "pizza_topping",
+   "summer",
+   "vegetable"
+  ],
+  "par": 580,
+  "route": [
+   "onion",
+   "lake",
+   "shy"
+  ],
+  "routes": 60,
+  "number": 61
+ },
+ "2027-01-09": {
+  "prompts": [
+   "bathroom",
+   "has_wheels",
+   "instrument",
+   "red_thing",
+   "condiment"
+  ],
+  "par": 570,
+  "route": [
+   "gong",
+   "jeep",
+   "salsa",
+   "tub"
+  ],
+  "routes": 60,
+  "number": 62
+ },
+ "2027-01-10": {
+  "prompts": [
+   "footwear",
+   "hot_thing",
+   "snack",
+   "accessory",
+   "kitchen"
+  ],
+  "par": 570,
+  "route": [
+   "boot",
+   "pin",
+   "salsa",
+   "jug"
+  ],
+  "routes": 60,
+  "number": 63
+ },
+ "2027-01-11": {
+  "prompts": [
+   "instrument",
+   "toy",
+   "country",
+   "city",
+   "bug"
+  ],
+  "par": 560,
+  "route": [
+   "gong",
+   "fly",
+   "bike",
+   "macau"
+  ],
+  "routes": 60,
+  "number": 64
+ },
+ "2027-01-12": {
+  "prompts": [
+   "job",
+   "hobby",
+   "headwear",
+   "sport",
+   "winter"
+  ],
+  "par": 575,
+  "route": [
+   "hood",
+   "skiing",
+   "referee"
+  ],
+  "routes": 60,
+  "number": 65
+ },
+ "2027-01-13": {
+  "prompts": [
+   "school_supply",
+   "garden",
+   "beach_item",
+   "plug_in",
+   "bird"
+  ],
+  "par": 575,
+  "route": [
+   "gull",
+   "hat",
+   "mic",
+   "bee"
+  ],
+  "routes": 60,
+  "number": 66
+ },
+ "2027-01-14": {
+  "prompts": [
+   "flies",
+   "vehicle",
+   "body_part",
+   "tree",
+   "fruit"
+  ],
+  "par": 580,
+  "route": [
+   "fig",
+   "jet",
+   "palm"
+  ],
+  "routes": 60,
+  "number": 67
+ },
+ "2027-01-15": {
+  "prompts": [
+   "animal",
+   "bathroom",
+   "toy",
+   "cold_thing",
+   "weather"
+  ],
+  "par": 580,
+  "route": [
+   "ice",
+   "yo yo",
+   "mat",
+   "pup"
+  ],
+  "routes": 60,
+  "number": 68
+ },
+ "2027-01-16": {
+  "prompts": [
+   "party",
+   "colour",
+   "school_supply",
+   "room",
+   "beach_item"
+  ],
+  "par": 580,
+  "route": [
+   "gym",
+   "wine",
+   "book"
+  ],
+  "routes": 60,
+  "number": 69
+ },
+ "2027-01-17": {
+  "prompts": [
+   "sea_creature",
+   "garden",
+   "tool",
+   "body_part",
+   "winter"
+  ],
+  "par": 575,
+  "route": [
+   "ray",
+   "glove",
+   "hip"
+  ],
+  "routes": 60,
+  "number": 70
+ },
+ "2027-01-18": {
+  "prompts": [
+   "vehicle",
+   "job",
+   "feeling",
+   "hot_thing",
+   "pizza_topping"
+  ],
+  "par": 565,
+  "route": [
+   "egg",
+   "cab",
+   "oil",
+   "shy",
+   "nun"
+  ],
+  "routes": 60,
+  "number": 71
+ },
+ "2027-01-19": {
+  "prompts": [
+   "room",
+   "condiment",
+   "plug_in",
+   "snack",
+   "bird"
+  ],
+  "par": 570,
+  "route": [
+   "den",
+   "salsa",
+   "xbox",
+   "kiwi"
+  ],
+  "routes": 60,
+  "number": 72
+ },
+ "2027-01-20": {
+  "prompts": [
+   "place_in_town",
+   "sports_gear",
+   "furniture",
+   "camping",
+   "clothing"
+  ],
+  "par": 575,
+  "route": [
+   "bed",
+   "skis",
+   "hat",
+   "zoo"
+  ],
+  "routes": 60,
+  "number": 73
+ },
+ "2027-01-21": {
+  "prompts": [
+   "vegetable",
+   "red_thing",
+   "breakfast",
+   "instrument",
+   "accessory"
+  ],
+  "par": 570,
+  "route": [
+   "gong",
+   "pepper",
+   "jam",
+   "cuff"
+  ],
+  "routes": 60,
+  "number": 74
+ },
+ "2027-01-22": {
+  "prompts": [
+   "headwear",
+   "tree",
+   "bug",
+   "tool",
+   "fruit"
+  ],
+  "par": 560,
+  "route": [
+   "fig",
+   "bee",
+   "sal",
+   "hood",
+   "nut"
+  ],
+  "routes": 24,
+  "number": 75
+ },
+ "2027-01-23": {
+  "prompts": [
+   "animal",
+   "country",
+   "summer",
+   "footwear",
+   "has_wheels"
+  ],
+  "par": 565,
+  "route": [
+   "vans",
+   "togo",
+   "bike",
+   "pup"
+  ],
+  "routes": 60,
+  "number": 76
+ },
+ "2027-01-24": {
+  "prompts": [
+   "sea_creature",
+   "flower_plant",
+   "food",
+   "hobby",
+   "weather"
+  ],
+  "par": 575,
+  "route": [
+   "eel",
+   "mum",
+   "fog",
+   "cars"
+  ],
+  "routes": 60,
+  "number": 77
+ },
+ "2027-01-25": {
+  "prompts": [
+   "drink",
+   "pet",
+   "sport",
+   "breakfast",
+   "bathroom"
+  ],
+  "par": 570,
+  "route": [
+   "tea",
+   "bin",
+   "golf",
+   "pup"
+  ],
+  "routes": 60,
+  "number": 78
+ },
+ "2027-01-26": {
+  "prompts": [
+   "furniture",
+   "garden",
+   "city",
+   "school_supply",
+   "footwear"
+  ],
+  "par": 575,
+  "route": [
+   "boot",
+   "swing",
+   "accra"
+  ],
+  "routes": 60,
+  "number": 79
+ },
+ "2027-01-27": {
+  "prompts": [
+   "pet",
+   "kitchen",
+   "feeling",
+   "vehicle",
+   "plug_in"
+  ],
+  "par": 570,
+  "route": [
+   "pup",
+   "cab",
+   "kettle",
+   "joy"
+  ],
+  "routes": 60,
+  "number": 80
+ },
+ "2027-01-28": {
+  "prompts": [
+   "winter",
+   "flies",
+   "furniture",
+   "round_thing",
+   "breakfast"
+  ],
+  "par": 575,
+  "route": [
+   "egg",
+   "cot",
+   "skis",
+   "jay"
+  ],
+  "routes": 60,
+  "number": 81
+ },
+ "2027-01-29": {
+  "prompts": [
+   "farm_animal",
+   "nature_place",
+   "country",
+   "zoo_animal",
+   "fruit"
+  ],
+  "par": 570,
+  "route": [
+   "banana",
+   "togo",
+   "emu",
+   "hill"
+  ],
+  "routes": 60,
+  "number": 82
+ },
+ "2027-01-30": {
+  "prompts": [
+   "game",
+   "hobby",
+   "sea_creature",
+   "bug",
+   "pizza_topping"
+  ],
+  "par": 575,
+  "route": [
+   "fly",
+   "tuna",
+   "chess"
+  ],
+  "routes": 13,
+  "number": 83
+ },
+ "2027-01-31": {
+  "prompts": [
+   "camping",
+   "kitchen",
+   "dessert",
+   "zoo_animal",
+   "condiment"
+  ],
+  "par": 580,
+  "route": [
+   "jelly",
+   "bat",
+   "food"
+  ],
+  "routes": 60,
+  "number": 84
+ },
+ "2027-02-01": {
+  "prompts": [
+   "city",
+   "body_part",
+   "round_thing",
+   "beach_item",
+   "game"
+  ],
+  "par": 580,
+  "route": [
+   "pop",
+   "fifa",
+   "tub",
+   "eye"
+  ],
+  "routes": 60,
+  "number": 85
+ },
+ "2027-02-02": {
+  "prompts": [
+   "dessert",
+   "cold_thing",
+   "instrument",
+   "colour",
+   "place_in_town"
+  ],
+  "par": 565,
+  "route": [
+   "bass",
+   "jelly",
+   "mint",
+   "zoo"
+  ],
+  "routes": 29,
+  "number": 86
+ },
+ "2027-02-03": {
+  "prompts": [
+   "food",
+   "has_wheels",
+   "headwear",
+   "hot_thing",
+   "tree"
+  ],
+  "par": 570,
+  "route": [
+   "hood",
+   "jeep",
+   "fir",
+   "salsa"
+  ],
+  "routes": 60,
+  "number": 87
+ },
+ "2027-02-04": {
+  "prompts": [
+   "vegetable",
+   "party",
+   "sports_gear",
+   "nature_place",
+   "red_thing"
+  ],
+  "par": 580,
+  "route": [
+   "beet",
+   "mask",
+   "hill"
+  ],
+  "routes": 60,
+  "number": 88
+ },
+ "2027-02-05": {
+  "prompts": [
+   "summer",
+   "sport",
+   "breakfast",
+   "job",
+   "toy"
+  ],
+  "par": 585,
+  "route": [
+   "ham",
+   "bike",
+   "nun"
+  ],
+  "routes": 54,
+  "number": 89
+ },
+ "2027-02-06": {
+  "prompts": [
+   "room",
+   "weather",
+   "hot_thing",
+   "fruit",
+   "animal"
+  ],
+  "par": 585,
+  "route": [
+   "kiwi",
+   "gym",
+   "sun"
+  ],
+  "routes": 60,
+  "number": 90
+ }
+}
