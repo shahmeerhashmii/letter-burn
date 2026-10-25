@@ -1,0 +1,3544 @@
+{
+ "2026-11-01": {
+  "prompts": [
+   "condiment",
+   "job",
+   "pet",
+   "zoo_animal",
+   "clothing"
+  ],
+  "par": 580,
+  "route": [
+   "boa",
+   "dill",
+   "nun",
+   "tee"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.09,
+  "number": 1
+ },
+ "2026-11-02": {
+  "prompts": [
+   "tool",
+   "garden",
+   "cold_thing",
+   "summer",
+   "fruit"
+  ],
+  "par": 585,
+  "route": [
+   "fig",
+   "pool",
+   "nut"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.115,
+  "number": 2
+ },
+ "2026-11-03": {
+  "prompts": [
+   "tree",
+   "bird",
+   "school_supply",
+   "round_thing",
+   "tool"
+  ],
+  "par": 570,
+  "route": [
+   "lal",
+   "book",
+   "pins",
+   "tree"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.035,
+  "number": 3
+ },
+ "2026-11-04": {
+  "prompts": [
+   "breakfast",
+   "kitchen",
+   "red_thing",
+   "accessory",
+   "room"
+  ],
+  "par": 580,
+  "route": [
+   "jam",
+   "den",
+   "grill"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.055,
+  "number": 4
+ },
+ "2026-11-05": {
+  "prompts": [
+   "winter",
+   "vehicle",
+   "weather",
+   "cold_thing",
+   "hot_thing"
+  ],
+  "par": 585,
+  "route": [
+   "ice",
+   "magma",
+   "bus"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.275,
+  "number": 5
+ },
+ "2026-11-06": {
+  "prompts": [
+   "game",
+   "colour",
+   "drink",
+   "garden",
+   "nature_place"
+  ],
+  "par": 585,
+  "route": [
+   "tan",
+   "reef",
+   "pool"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.105,
+  "number": 6
+ },
+ "2026-11-07": {
+  "prompts": [
+   "headwear",
+   "hobby",
+   "cold_thing",
+   "footwear",
+   "sport"
+  ],
+  "par": 575,
+  "route": [
+   "hat",
+   "runners",
+   "pool"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.09,
+  "number": 7
+ },
+ "2026-11-08": {
+  "prompts": [
+   "camping",
+   "summer",
+   "plug_in",
+   "flies",
+   "food"
+  ],
+  "par": 590,
+  "route": [
+   "kayak",
+   "seed",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.19,
+  "number": 8
+ },
+ "2026-11-09": {
+  "prompts": [
+   "round_thing",
+   "fruit",
+   "animal",
+   "city",
+   "vegetable"
+  ],
+  "par": 590,
+  "route": [
+   "kiwi",
+   "pea",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.19,
+  "number": 9
+ },
+ "2026-11-10": {
+  "prompts": [
+   "has_wheels",
+   "feeling",
+   "bug",
+   "sports_gear",
+   "bathroom"
+  ],
+  "par": 580,
+  "route": [
+   "fly",
+   "bin",
+   "tee",
+   "so so"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.175,
+  "number": 10
+ },
+ "2026-11-11": {
+  "prompts": [
+   "flower_plant",
+   "beach_item",
+   "headwear",
+   "toy",
+   "flies"
+  ],
+  "par": 585,
+  "route": [
+   "hood",
+   "mum",
+   "kite"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.16,
+  "number": 11
+ },
+ "2026-11-12": {
+  "prompts": [
+   "weather",
+   "snack",
+   "body_part",
+   "hot_thing",
+   "place_in_town"
+  ],
+  "par": 585,
+  "route": [
+   "gum",
+   "heat",
+   "inn"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.205,
+  "number": 12
+ },
+ "2026-11-13": {
+  "prompts": [
+   "zoo_animal",
+   "hobby",
+   "sea_creature",
+   "game",
+   "footwear"
+  ],
+  "par": 580,
+  "route": [
+   "puma",
+   "eel",
+   "csgo"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.065,
+  "number": 13
+ },
+ "2026-11-14": {
+  "prompts": [
+   "furniture",
+   "zoo_animal",
+   "sea_creature",
+   "red_thing",
+   "clothing"
+  ],
+  "par": 575,
+  "route": [
+   "fox",
+   "eel",
+   "rug",
+   "mac"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.095,
+  "number": 14
+ },
+ "2026-11-15": {
+  "prompts": [
+   "farm_animal",
+   "school_supply",
+   "room",
+   "colour",
+   "fruit"
+  ],
+  "par": 570,
+  "route": [
+   "plum",
+   "den",
+   "hat",
+   "ox"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.085,
+  "number": 15
+ },
+ "2026-11-16": {
+  "prompts": [
+   "feeling",
+   "beach_item",
+   "cold_thing",
+   "place_in_town",
+   "winter"
+  ],
+  "par": 595,
+  "route": [
+   "ice",
+   "zoo",
+   "sus"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.215,
+  "number": 16
+ },
+ "2026-11-17": {
+  "prompts": [
+   "furniture",
+   "game",
+   "pet",
+   "breakfast",
+   "sports_gear"
+  ],
+  "par": 575,
+  "route": [
+   "jam",
+   "bench",
+   "pig"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.055,
+  "number": 17
+ },
+ "2026-11-18": {
+  "prompts": [
+   "job",
+   "animal",
+   "pizza_topping",
+   "bathroom",
+   "tree"
+  ],
+  "par": 570,
+  "route": [
+   "elm",
+   "crab",
+   "nun",
+   "hook"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.05,
+  "number": 18
+ },
+ "2026-11-19": {
+  "prompts": [
+   "party",
+   "snack",
+   "flower_plant",
+   "headwear",
+   "bird"
+  ],
+  "par": 575,
+  "route": [
+   "hood",
+   "lal",
+   "mum",
+   "sweets"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.12,
+  "number": 19
+ },
+ "2026-11-20": {
+  "prompts": [
+   "vehicle",
+   "condiment",
+   "kitchen",
+   "zoo_animal",
+   "accessory"
+  ],
+  "par": 580,
+  "route": [
+   "gnu",
+   "pepper",
+   "coach"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.075,
+  "number": 20
+ },
+ "2026-11-21": {
+  "prompts": [
+   "camping",
+   "flies",
+   "clothing",
+   "school_supply",
+   "dessert"
+  ],
+  "par": 590,
+  "route": [
+   "pie",
+   "boot",
+   "lal"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.105,
+  "number": 21
+ },
+ "2026-11-22": {
+  "prompts": [
+   "summer",
+   "colour",
+   "footwear",
+   "fruit",
+   "tree"
+  ],
+  "par": 590,
+  "route": [
+   "cherry",
+   "boot"
+  ],
+  "routes": 114,
+  "finishRate": 0.95,
+  "cleanRate": 0.12,
+  "number": 22
+ },
+ "2026-11-23": {
+  "prompts": [
+   "drink",
+   "hot_thing",
+   "camping",
+   "feeling",
+   "sports_gear"
+  ],
+  "par": 590,
+  "route": [
+   "tea",
+   "jill",
+   "off"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.21,
+  "number": 23
+ },
+ "2026-11-24": {
+  "prompts": [
+   "country",
+   "colour",
+   "body_part",
+   "fruit",
+   "instrument"
+  ],
+  "par": 580,
+  "route": [
+   "malta",
+   "gong",
+   "iris"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.1,
+  "number": 24
+ },
+ "2026-11-25": {
+  "prompts": [
+   "flower_plant",
+   "sport",
+   "animal",
+   "round_thing",
+   "hobby"
+  ],
+  "par": 585,
+  "route": [
+   "mint",
+   "cod",
+   "wwe"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.23,
+  "number": 25
+ },
+ "2026-11-26": {
+  "prompts": [
+   "plug_in",
+   "city",
+   "vegetable",
+   "pet",
+   "party"
+  ],
+  "par": 575,
+  "route": [
+   "pea",
+   "jug",
+   "mic",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 0.95,
+  "cleanRate": 0.085,
+  "number": 26
+ },
+ "2026-11-27": {
+  "prompts": [
+   "place_in_town",
+   "vehicle",
+   "summer",
+   "kitchen",
+   "tree"
+  ],
+  "par": 575,
+  "route": [
+   "elm",
+   "kayak",
+   "bin",
+   "zoo"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.11,
+  "number": 27
+ },
+ "2026-11-28": {
+  "prompts": [
+   "country",
+   "tool",
+   "condiment",
+   "zoo_animal",
+   "colour"
+  ],
+  "par": 570,
+  "route": [
+   "boa",
+   "u s",
+   "level",
+   "mint"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.045,
+  "number": 28
+ },
+ "2026-11-29": {
+  "prompts": [
+   "pizza_topping",
+   "weather",
+   "red_thing",
+   "plug_in",
+   "bug"
+  ],
+  "par": 575,
+  "route": [
+   "bee",
+   "tomato",
+   "wii",
+   "sun"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.15,
+  "number": 29
+ },
+ "2026-11-30": {
+  "prompts": [
+   "farm_animal",
+   "nature_place",
+   "sea_creature",
+   "food",
+   "beach_item"
+  ],
+  "par": 590,
+  "route": [
+   "dog",
+   "eel",
+   "pass"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.205,
+  "number": 30
+ },
+ "2026-12-01": {
+  "prompts": [
+   "sport",
+   "drink",
+   "country",
+   "summer",
+   "animal"
+  ],
+  "par": 585,
+  "route": [
+   "tan",
+   "u s",
+   "wwe",
+   "boo boo"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.145,
+  "number": 31
+ },
+ "2026-12-02": {
+  "prompts": [
+   "game",
+   "plug_in",
+   "bird",
+   "pet",
+   "has_wheels"
+  ],
+  "par": 590,
+  "route": [
+   "lal",
+   "mice",
+   "yo yo"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.155,
+  "number": 32
+ },
+ "2026-12-03": {
+  "prompts": [
+   "hot_thing",
+   "animal",
+   "red_thing",
+   "condiment",
+   "nature_place"
+  ],
+  "par": 590,
+  "route": [
+   "pepper",
+   "hill",
+   "boo boo"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.23,
+  "number": 33
+ },
+ "2026-12-04": {
+  "prompts": [
+   "dessert",
+   "toy",
+   "bathroom",
+   "farm_animal",
+   "vehicle"
+  ],
+  "par": 575,
+  "route": [
+   "ox",
+   "pie",
+   "tub",
+   "car"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.035,
+  "number": 34
+ },
+ "2026-12-05": {
+  "prompts": [
+   "drink",
+   "cold_thing",
+   "party",
+   "furniture",
+   "body_part"
+  ],
+  "par": 595,
+  "route": [
+   "rug",
+   "pop",
+   "eye"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.175,
+  "number": 35
+ },
+ "2026-12-06": {
+  "prompts": [
+   "beach_item",
+   "pizza_topping",
+   "sports_gear",
+   "country",
+   "flies"
+  ],
+  "par": 585,
+  "route": [
+   "pop",
+   "egg",
+   "bat",
+   "u s"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.105,
+  "number": 36
+ },
+ "2026-12-07": {
+  "prompts": [
+   "condiment",
+   "camping",
+   "feeling",
+   "dessert",
+   "round_thing"
+  ],
+  "par": 575,
+  "route": [
+   "pie",
+   "jam",
+   "food",
+   "sus"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.115,
+  "number": 37
+ },
+ "2026-12-08": {
+  "prompts": [
+   "hot_thing",
+   "furniture",
+   "country",
+   "garden",
+   "tree"
+  ],
+  "par": 575,
+  "route": [
+   "acacia",
+   "u s",
+   "bed",
+   "pot"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.085,
+  "number": 38
+ },
+ "2026-12-09": {
+  "prompts": [
+   "has_wheels",
+   "bug",
+   "plug_in",
+   "drink",
+   "food"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "car",
+   "pop",
+   "fig"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.09,
+  "number": 39
+ },
+ "2026-12-10": {
+  "prompts": [
+   "game",
+   "garden",
+   "city",
+   "hobby",
+   "food"
+  ],
+  "par": 585,
+  "route": [
+   "sims",
+   "kale",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.17,
+  "number": 40
+ },
+ "2026-12-11": {
+  "prompts": [
+   "colour",
+   "headwear",
+   "nature_place",
+   "fruit",
+   "weather"
+  ],
+  "par": 580,
+  "route": [
+   "lime",
+   "hood",
+   "sky"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.155,
+  "number": 41
+ },
+ "2026-12-12": {
+  "prompts": [
+   "flower_plant",
+   "tree",
+   "kitchen",
+   "tool",
+   "winter"
+  ],
+  "par": 585,
+  "route": [
+   "tree",
+   "mop",
+   "skis"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.16,
+  "number": 42
+ },
+ "2026-12-13": {
+  "prompts": [
+   "sport",
+   "summer",
+   "pizza_topping",
+   "garden",
+   "headwear"
+  ],
+  "par": 590,
+  "route": [
+   "hat",
+   "egg",
+   "pool"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.1,
+  "number": 43
+ },
+ "2026-12-14": {
+  "prompts": [
+   "cold_thing",
+   "beach_item",
+   "snack",
+   "tool",
+   "bug"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "pop",
+   "nut",
+   "gala"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.1,
+  "number": 44
+ },
+ "2026-12-15": {
+  "prompts": [
+   "vegetable",
+   "toy",
+   "place_in_town",
+   "red_thing",
+   "sports_gear"
+  ],
+  "par": 590,
+  "route": [
+   "pepper",
+   "ball",
+   "inn"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.135,
+  "number": 45
+ },
+ "2026-12-16": {
+  "prompts": [
+   "garden",
+   "clothing",
+   "job",
+   "sport",
+   "zoo_animal"
+  ],
+  "par": 590,
+  "route": [
+   "deer",
+   "nun",
+   "po lo"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.1,
+  "number": 46
+ },
+ "2026-12-17": {
+  "prompts": [
+   "drink",
+   "school_supply",
+   "colour",
+   "animal",
+   "weather"
+  ],
+  "par": 575,
+  "route": [
+   "book",
+   "tan",
+   "ice",
+   "pup"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.1,
+  "number": 47
+ },
+ "2026-12-18": {
+  "prompts": [
+   "beach_item",
+   "headwear",
+   "sport",
+   "bug",
+   "winter"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "cap",
+   "skiing"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.07,
+  "number": 48
+ },
+ "2026-12-19": {
+  "prompts": [
+   "tree",
+   "feeling",
+   "pet",
+   "beach_item",
+   "winter"
+  ],
+  "par": 580,
+  "route": [
+   "ash",
+   "ice",
+   "pup",
+   "off"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.15,
+  "number": 49
+ },
+ "2026-12-20": {
+  "prompts": [
+   "summer",
+   "country",
+   "weather",
+   "flower_plant",
+   "breakfast"
+  ],
+  "par": 575,
+  "route": [
+   "dill",
+   "egg",
+   "sun",
+   "pak"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.09,
+  "number": 50
+ },
+ "2026-12-21": {
+  "prompts": [
+   "place_in_town",
+   "room",
+   "bug",
+   "sport",
+   "drink"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "gym",
+   "ncaa",
+   "pop"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.095,
+  "number": 51
+ },
+ "2026-12-22": {
+  "prompts": [
+   "body_part",
+   "hobby",
+   "round_thing",
+   "sea_creature",
+   "clothing"
+  ],
+  "par": 595,
+  "route": [
+   "cod",
+   "eye",
+   "tutu"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.15,
+  "number": 52
+ },
+ "2026-12-23": {
+  "prompts": [
+   "tool",
+   "job",
+   "party",
+   "bird",
+   "kitchen"
+  ],
+  "par": 580,
+  "route": [
+   "lal",
+   "bit",
+   "food",
+   "nun"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.17,
+  "number": 53
+ },
+ "2026-12-24": {
+  "prompts": [
+   "accessory",
+   "headwear",
+   "has_wheels",
+   "camping",
+   "breakfast"
+  ],
+  "par": 590,
+  "route": [
+   "hat",
+   "egg",
+   "bin"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.155,
+  "number": 54
+ },
+ "2026-12-25": {
+  "prompts": [
+   "sport",
+   "summer",
+   "pet",
+   "sea_creature",
+   "game"
+  ],
+  "par": 595,
+  "route": [
+   "fish",
+   "pool"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.09,
+  "number": 55
+ },
+ "2026-12-26": {
+  "prompts": [
+   "drink",
+   "sports_gear",
+   "party",
+   "pizza_topping",
+   "toy"
+  ],
+  "par": 595,
+  "route": [
+   "pop",
+   "egg",
+   "ball"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.125,
+  "number": 56
+ },
+ "2026-12-27": {
+  "prompts": [
+   "farm_animal",
+   "cold_thing",
+   "snack",
+   "country",
+   "garden"
+  ],
+  "par": 585,
+  "route": [
+   "bee",
+   "pop",
+   "gala",
+   "u s"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.08,
+  "number": 57
+ },
+ "2026-12-28": {
+  "prompts": [
+   "furniture",
+   "condiment",
+   "toy",
+   "drink",
+   "hot_thing"
+  ],
+  "par": 580,
+  "route": [
+   "bed",
+   "salsa",
+   "pop",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.08,
+  "number": 58
+ },
+ "2026-12-29": {
+  "prompts": [
+   "feeling",
+   "colour",
+   "breakfast",
+   "tool",
+   "pet"
+  ],
+  "par": 575,
+  "route": [
+   "coffee",
+   "saw",
+   "pup",
+   "ill"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.085,
+  "number": 59
+ },
+ "2026-12-30": {
+  "prompts": [
+   "red_thing",
+   "flower_plant",
+   "bird",
+   "plug_in",
+   "bathroom"
+  ],
+  "par": 585,
+  "route": [
+   "geese",
+   "poppy",
+   "fan"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.125,
+  "number": 60
+ },
+ "2026-12-31": {
+  "prompts": [
+   "winter",
+   "sea_creature",
+   "food",
+   "kitchen",
+   "game"
+  ],
+  "par": 585,
+  "route": [
+   "eel",
+   "buff",
+   "spoons"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.135,
+  "number": 61
+ },
+ "2027-01-01": {
+  "prompts": [
+   "hobby",
+   "job",
+   "fruit",
+   "cold_thing",
+   "garden"
+  ],
+  "par": 575,
+  "route": [
+   "fig",
+   "pool",
+   "art",
+   "nun"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.075,
+  "number": 62
+ },
+ "2027-01-02": {
+  "prompts": [
+   "cold_thing",
+   "has_wheels",
+   "round_thing",
+   "vegetable",
+   "fruit"
+  ],
+  "par": 580,
+  "route": [
+   "tomato",
+   "bus",
+   "ice"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.07,
+  "number": 63
+ },
+ "2027-01-03": {
+  "prompts": [
+   "furniture",
+   "room",
+   "plug_in",
+   "summer",
+   "vehicle"
+  ],
+  "par": 580,
+  "route": [
+   "loo",
+   "bed",
+   "wii",
+   "kayak"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.065,
+  "number": 64
+ },
+ "2027-01-04": {
+  "prompts": [
+   "fruit",
+   "nature_place",
+   "city",
+   "animal",
+   "pizza_topping"
+  ],
+  "par": 580,
+  "route": [
+   "kiwi",
+   "dam",
+   "egg",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.14,
+  "number": 65
+ },
+ "2027-01-05": {
+  "prompts": [
+   "sports_gear",
+   "country",
+   "headwear",
+   "hot_thing",
+   "instrument"
+  ],
+  "par": 570,
+  "route": [
+   "helmet",
+   "jug",
+   "india"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.03,
+  "number": 66
+ },
+ "2027-01-06": {
+  "prompts": [
+   "nature_place",
+   "fruit",
+   "vehicle",
+   "snack",
+   "flower_plant"
+  ],
+  "par": 580,
+  "route": [
+   "gala",
+   "bush",
+   "mini"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.145,
+  "number": 67
+ },
+ "2027-01-07": {
+  "prompts": [
+   "beach_item",
+   "footwear",
+   "round_thing",
+   "red_thing",
+   "country"
+  ],
+  "par": 575,
+  "route": [
+   "fins",
+   "togo",
+   "apple"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.03,
+  "number": 68
+ },
+ "2027-01-08": {
+  "prompts": [
+   "sea_creature",
+   "summer",
+   "flower_plant",
+   "hobby",
+   "bathroom"
+  ],
+  "par": 590,
+  "route": [
+   "mum",
+   "cod",
+   "fan"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.125,
+  "number": 69
+ },
+ "2027-01-09": {
+  "prompts": [
+   "has_wheels",
+   "pet",
+   "job",
+   "instrument",
+   "tool"
+  ],
+  "par": 580,
+  "route": [
+   "jug",
+   "dolly",
+   "imam"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.115,
+  "number": 70
+ },
+ "2027-01-10": {
+  "prompts": [
+   "zoo_animal",
+   "bug",
+   "room",
+   "winter",
+   "weather"
+  ],
+  "par": 575,
+  "route": [
+   "bug",
+   "loo",
+   "yak",
+   "ice"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.115,
+  "number": 71
+ },
+ "2027-01-11": {
+  "prompts": [
+   "flies",
+   "city",
+   "feeling",
+   "kitchen",
+   "furniture"
+  ],
+  "par": 575,
+  "route": [
+   "chair",
+   "t o",
+   "bee",
+   "sus"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.085,
+  "number": 72
+ },
+ "2027-01-12": {
+  "prompts": [
+   "footwear",
+   "breakfast",
+   "animal",
+   "country",
+   "pizza_topping"
+  ],
+  "par": 585,
+  "route": [
+   "egg",
+   "boot",
+   "u s",
+   "lal"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.095,
+  "number": 73
+ },
+ "2027-01-13": {
+  "prompts": [
+   "school_supply",
+   "pizza_topping",
+   "animal",
+   "headwear",
+   "place_in_town"
+  ],
+  "par": 585,
+  "route": [
+   "hat",
+   "egg",
+   "inn",
+   "boo boo"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.07,
+  "number": 74
+ },
+ "2027-01-14": {
+  "prompts": [
+   "camping",
+   "breakfast",
+   "sport",
+   "bird",
+   "vehicle"
+  ],
+  "par": 580,
+  "route": [
+   "lal",
+   "eggs",
+   "pickup"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.095,
+  "number": 75
+ },
+ "2027-01-15": {
+  "prompts": [
+   "party",
+   "bathroom",
+   "plug_in",
+   "food",
+   "flower_plant"
+  ],
+  "par": 590,
+  "route": [
+   "mum",
+   "fan",
+   "dip"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.155,
+  "number": 76
+ },
+ "2027-01-16": {
+  "prompts": [
+   "nature_place",
+   "body_part",
+   "toy",
+   "sports_gear",
+   "dessert"
+  ],
+  "par": 570,
+  "route": [
+   "pie",
+   "foot",
+   "ball",
+   "sky"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.055,
+  "number": 77
+ },
+ "2027-01-17": {
+  "prompts": [
+   "colour",
+   "fruit",
+   "red_thing",
+   "plug_in",
+   "accessory"
+  ],
+  "par": 580,
+  "route": [
+   "cherry",
+   "bag",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.13,
+  "number": 78
+ },
+ "2027-01-18": {
+  "prompts": [
+   "farm_animal",
+   "vehicle",
+   "drink",
+   "beach_item",
+   "weather"
+  ],
+  "par": 590,
+  "route": [
+   "ram",
+   "pop",
+   "sun"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.215,
+  "number": 79
+ },
+ "2027-01-19": {
+  "prompts": [
+   "bug",
+   "fruit",
+   "bathroom",
+   "tree",
+   "body_part"
+  ],
+  "par": 570,
+  "route": [
+   "fig",
+   "bee",
+   "palm",
+   "hook"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.04,
+  "number": 80
+ },
+ "2027-01-20": {
+  "prompts": [
+   "winter",
+   "instrument",
+   "farm_animal",
+   "accessory",
+   "room"
+  ],
+  "par": 570,
+  "route": [
+   "jug",
+   "bee",
+   "loo",
+   "scarf"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.105,
+  "number": 81
+ },
+ "2027-01-21": {
+  "prompts": [
+   "bug",
+   "nature_place",
+   "job",
+   "drink",
+   "place_in_town"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "pop",
+   "nun",
+   "farm"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.105,
+  "number": 82
+ },
+ "2027-01-22": {
+  "prompts": [
+   "hot_thing",
+   "kitchen",
+   "dessert",
+   "weather",
+   "snack"
+  ],
+  "par": 580,
+  "route": [
+   "sweets",
+   "oil",
+   "radar"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.18,
+  "number": 83
+ },
+ "2027-01-23": {
+  "prompts": [
+   "cold_thing",
+   "plug_in",
+   "kitchen",
+   "bird",
+   "room"
+  ],
+  "par": 585,
+  "route": [
+   "lal",
+   "nook",
+   "freezer"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.155,
+  "number": 84
+ },
+ "2027-01-24": {
+  "prompts": [
+   "condiment",
+   "clothing",
+   "snack",
+   "has_wheels",
+   "flies"
+  ],
+  "par": 585,
+  "route": [
+   "jet",
+   "dip",
+   "bag"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.16,
+  "number": 85
+ },
+ "2027-01-25": {
+  "prompts": [
+   "school_supply",
+   "bug",
+   "food",
+   "cold_thing",
+   "accessory"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "hat",
+   "pop",
+   "fig"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.08,
+  "number": 86
+ },
+ "2027-01-26": {
+  "prompts": [
+   "pet",
+   "zoo_animal",
+   "sport",
+   "vegetable",
+   "winter"
+  ],
+  "par": 585,
+  "route": [
+   "boa",
+   "chili",
+   "wwe"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.065,
+  "number": 87
+ },
+ "2027-01-27": {
+  "prompts": [
+   "kitchen",
+   "camping",
+   "pizza_topping",
+   "instrument",
+   "snack"
+  ],
+  "par": 580,
+  "route": [
+   "gong",
+   "cheese",
+   "map"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.2,
+  "number": 88
+ },
+ "2027-01-28": {
+  "prompts": [
+   "headwear",
+   "round_thing",
+   "sport",
+   "tree",
+   "nature_place"
+  ],
+  "par": 570,
+  "route": [
+   "hat",
+   "fir",
+   "pool",
+   "sky"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.03,
+  "number": 89
+ },
+ "2027-01-29": {
+  "prompts": [
+   "bathroom",
+   "city",
+   "sea_creature",
+   "round_thing",
+   "camping"
+  ],
+  "par": 575,
+  "route": [
+   "eel",
+   "can",
+   "tub",
+   "food"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.065,
+  "number": 90
+ },
+ "2027-01-30": {
+  "prompts": [
+   "condiment",
+   "furniture",
+   "winter",
+   "clothing",
+   "garden"
+  ],
+  "par": 580,
+  "route": [
+   "rug",
+   "lime",
+   "boot"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.085,
+  "number": 91
+ },
+ "2027-01-31": {
+  "prompts": [
+   "job",
+   "plug_in",
+   "fruit",
+   "animal",
+   "instrument"
+  ],
+  "par": 580,
+  "route": [
+   "gala",
+   "mic",
+   "nun",
+   "bee"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.21,
+  "number": 92
+ },
+ "2027-02-01": {
+  "prompts": [
+   "vehicle",
+   "farm_animal",
+   "country",
+   "vegetable",
+   "flies"
+  ],
+  "par": 580,
+  "route": [
+   "ox",
+   "yam",
+   "u s",
+   "jet"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.085,
+  "number": 93
+ },
+ "2027-02-02": {
+  "prompts": [
+   "game",
+   "drink",
+   "animal",
+   "sport",
+   "job"
+  ],
+  "par": 580,
+  "route": [
+   "pop",
+   "chess",
+   "nun",
+   "lal"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.12,
+  "number": 94
+ },
+ "2027-02-03": {
+  "prompts": [
+   "dessert",
+   "body_part",
+   "red_thing",
+   "feeling",
+   "breakfast"
+  ],
+  "par": 575,
+  "route": [
+   "egg",
+   "tart",
+   "blood",
+   "sus"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.09,
+  "number": 95
+ },
+ "2027-02-04": {
+  "prompts": [
+   "sports_gear",
+   "place_in_town",
+   "tool",
+   "accessory",
+   "hot_thing"
+  ],
+  "par": 580,
+  "route": [
+   "grill",
+   "tape",
+   "zoo"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.165,
+  "number": 96
+ },
+ "2027-02-05": {
+  "prompts": [
+   "party",
+   "pet",
+   "snack",
+   "flower_plant",
+   "city"
+  ],
+  "par": 580,
+  "route": [
+   "mum",
+   "lab",
+   "dip",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.17,
+  "number": 97
+ },
+ "2027-02-06": {
+  "prompts": [
+   "instrument",
+   "place_in_town",
+   "camping",
+   "red_thing",
+   "tool"
+  ],
+  "par": 575,
+  "route": [
+   "mic",
+   "saw",
+   "zoo",
+   "beef"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.085,
+  "number": 98
+ },
+ "2027-02-07": {
+  "prompts": [
+   "tree",
+   "body_part",
+   "game",
+   "winter",
+   "hot_thing"
+  ],
+  "par": 580,
+  "route": [
+   "palm",
+   "fire",
+   "yo yo"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.095,
+  "number": 99
+ },
+ "2027-02-08": {
+  "prompts": [
+   "body_part",
+   "game",
+   "school_supply",
+   "pet",
+   "hobby"
+  ],
+  "par": 580,
+  "route": [
+   "pup",
+   "book",
+   "sims",
+   "eye"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.17,
+  "number": 100
+ },
+ "2027-02-09": {
+  "prompts": [
+   "food",
+   "cold_thing",
+   "vehicle",
+   "round_thing",
+   "headwear"
+  ],
+  "par": 580,
+  "route": [
+   "hat",
+   "pop",
+   "egg",
+   "mini"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.105,
+  "number": 101
+ },
+ "2027-02-10": {
+  "prompts": [
+   "snack",
+   "beach_item",
+   "bird",
+   "fruit",
+   "toy"
+  ],
+  "par": 595,
+  "route": [
+   "gala",
+   "kite"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.16,
+  "number": 102
+ },
+ "2027-02-11": {
+  "prompts": [
+   "vegetable",
+   "city",
+   "animal",
+   "breakfast",
+   "red_thing"
+  ],
+  "par": 580,
+  "route": [
+   "egg",
+   "chili",
+   "t o",
+   "pup"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.1,
+  "number": 103
+ },
+ "2027-02-12": {
+  "prompts": [
+   "accessory",
+   "camping",
+   "footwear",
+   "farm_animal",
+   "country"
+  ],
+  "par": 575,
+  "route": [
+   "ox",
+   "heel",
+   "pack",
+   "u s"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.075,
+  "number": 104
+ },
+ "2027-02-13": {
+  "prompts": [
+   "food",
+   "garden",
+   "headwear",
+   "bathroom",
+   "feeling"
+  ],
+  "par": 575,
+  "route": [
+   "cap",
+   "bin",
+   "seed",
+   "off"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.165,
+  "number": 105
+ },
+ "2027-02-14": {
+  "prompts": [
+   "room",
+   "sports_gear",
+   "clothing",
+   "zoo_animal",
+   "dessert"
+  ],
+  "par": 575,
+  "route": [
+   "loo",
+   "bat",
+   "pie",
+   "cuff"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.07,
+  "number": 106
+ },
+ "2027-02-15": {
+  "prompts": [
+   "weather",
+   "furniture",
+   "hot_thing",
+   "has_wheels",
+   "instrument"
+  ],
+  "par": 575,
+  "route": [
+   "fife",
+   "bar cart",
+   "sun"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.11,
+  "number": 107
+ },
+ "2027-02-16": {
+  "prompts": [
+   "accessory",
+   "country",
+   "flower_plant",
+   "bathroom",
+   "bug"
+  ],
+  "par": 570,
+  "route": [
+   "bee",
+   "dill",
+   "mask",
+   "togo"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.07,
+  "number": 108
+ },
+ "2027-02-17": {
+  "prompts": [
+   "place_in_town",
+   "flies",
+   "colour",
+   "toy",
+   "bug"
+  ],
+  "par": 590,
+  "route": [
+   "bee",
+   "clay",
+   "inn"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.235,
+  "number": 109
+ },
+ "2027-02-18": {
+  "prompts": [
+   "city",
+   "pizza_topping",
+   "headwear",
+   "hot_thing",
+   "nature_place"
+  ],
+  "par": 575,
+  "route": [
+   "hood",
+   "pass",
+   "egg",
+   "tub"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.06,
+  "number": 110
+ },
+ "2027-02-19": {
+  "prompts": [
+   "dessert",
+   "sport",
+   "flower_plant",
+   "furniture",
+   "place_in_town"
+  ],
+  "par": 575,
+  "route": [
+   "mum",
+   "tart",
+   "bed",
+   "pool"
+  ],
+  "routes": 127,
+  "finishRate": 0.95,
+  "cleanRate": 0.025,
+  "number": 111
+ },
+ "2027-02-20": {
+  "prompts": [
+   "party",
+   "body_part",
+   "camping",
+   "fruit",
+   "furniture"
+  ],
+  "par": 575,
+  "route": [
+   "fig",
+   "cot",
+   "salsa",
+   "eye"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.135,
+  "number": 112
+ },
+ "2027-02-21": {
+  "prompts": [
+   "has_wheels",
+   "hobby",
+   "plug_in",
+   "sports_gear",
+   "food"
+  ],
+  "par": 590,
+  "route": [
+   "bike",
+   "hot pot"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.115,
+  "number": 113
+ },
+ "2027-02-22": {
+  "prompts": [
+   "place_in_town",
+   "vegetable",
+   "country",
+   "snack",
+   "round_thing"
+  ],
+  "par": 585,
+  "route": [
+   "onion",
+   "u s",
+   "apple"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.09,
+  "number": 114
+ },
+ "2027-02-23": {
+  "prompts": [
+   "school_supply",
+   "pizza_topping",
+   "feeling",
+   "red_thing",
+   "tool"
+  ],
+  "par": 585,
+  "route": [
+   "lock",
+   "beef",
+   "sus"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.1,
+  "number": 115
+ },
+ "2027-02-24": {
+  "prompts": [
+   "weather",
+   "hobby",
+   "clothing",
+   "flies",
+   "winter"
+  ],
+  "par": 585,
+  "route": [
+   "ice",
+   "lol",
+   "ana",
+   "tutu"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.21,
+  "number": 116
+ },
+ "2027-02-25": {
+  "prompts": [
+   "food",
+   "sports_gear",
+   "footwear",
+   "party",
+   "bird"
+  ],
+  "par": 585,
+  "route": [
+   "lal",
+   "socks",
+   "dip"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.17,
+  "number": 117
+ },
+ "2027-02-26": {
+  "prompts": [
+   "beach_item",
+   "kitchen",
+   "job",
+   "has_wheels",
+   "bathroom"
+  ],
+  "par": 590,
+  "route": [
+   "bin",
+   "pop",
+   "referee"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.22,
+  "number": 118
+ },
+ "2027-02-27": {
+  "prompts": [
+   "pizza_topping",
+   "winter",
+   "nature_place",
+   "farm_animal",
+   "vegetable"
+  ],
+  "par": 585,
+  "route": [
+   "bee",
+   "chili",
+   "dam"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.34,
+  "number": 119
+ },
+ "2027-02-28": {
+  "prompts": [
+   "accessory",
+   "bathroom",
+   "sea_creature",
+   "has_wheels",
+   "zoo_animal"
+  ],
+  "par": 580,
+  "route": [
+   "seal",
+   "bin",
+   "cuff"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.065,
+  "number": 120
+ },
+ "2027-03-01": {
+  "prompts": [
+   "room",
+   "zoo_animal",
+   "breakfast",
+   "snack",
+   "body_part"
+  ],
+  "par": 575,
+  "route": [
+   "banana",
+   "loo",
+   "deer",
+   "hip"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.085,
+  "number": 121
+ },
+ "2027-03-02": {
+  "prompts": [
+   "city",
+   "party",
+   "toy",
+   "food",
+   "sports_gear"
+  ],
+  "par": 590,
+  "route": [
+   "dip",
+   "ball",
+   "t o"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.145,
+  "number": 122
+ },
+ "2027-03-03": {
+  "prompts": [
+   "school_supply",
+   "camping",
+   "city",
+   "game",
+   "breakfast"
+  ],
+  "par": 580,
+  "route": [
+   "egg",
+   "map",
+   "yo yo",
+   "hull"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.09,
+  "number": 123
+ },
+ "2027-03-04": {
+  "prompts": [
+   "tool",
+   "drink",
+   "cold_thing",
+   "vehicle",
+   "beach_item"
+  ],
+  "par": 590,
+  "route": [
+   "pop",
+   "bit",
+   "amg"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.135,
+  "number": 124
+ },
+ "2027-03-05": {
+  "prompts": [
+   "bird",
+   "job",
+   "furniture",
+   "round_thing",
+   "vegetable"
+  ],
+  "par": 575,
+  "route": [
+   "lal",
+   "bed",
+   "onion",
+   "spy"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.06,
+  "number": 125
+ },
+ "2027-03-06": {
+  "prompts": [
+   "pet",
+   "summer",
+   "feeling",
+   "instrument",
+   "fruit"
+  ],
+  "par": 585,
+  "route": [
+   "berry",
+   "jug",
+   "ill"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.16,
+  "number": 126
+ },
+ "2027-03-07": {
+  "prompts": [
+   "place_in_town",
+   "colour",
+   "sports_gear",
+   "game",
+   "zoo_animal"
+  ],
+  "par": 585,
+  "route": [
+   "bat",
+   "pool",
+   "ink"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.08,
+  "number": 127
+ },
+ "2027-03-08": {
+  "prompts": [
+   "furniture",
+   "round_thing",
+   "animal",
+   "red_thing",
+   "beach_item"
+  ],
+  "par": 585,
+  "route": [
+   "rug",
+   "fox",
+   "ball"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.16,
+  "number": 128
+ },
+ "2027-03-09": {
+  "prompts": [
+   "kitchen",
+   "weather",
+   "flower_plant",
+   "garden",
+   "sport"
+  ],
+  "par": 580,
+  "route": [
+   "mum",
+   "fall",
+   "wwe",
+   "pot"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.31,
+  "number": 129
+ },
+ "2027-03-10": {
+  "prompts": [
+   "toy",
+   "sea_creature",
+   "instrument",
+   "food",
+   "hot_thing"
+  ],
+  "par": 585,
+  "route": [
+   "drum",
+   "eel",
+   "pan"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.19,
+  "number": 130
+ },
+ "2027-03-11": {
+  "prompts": [
+   "body_part",
+   "summer",
+   "cold_thing",
+   "feeling",
+   "furniture"
+  ],
+  "par": 580,
+  "route": [
+   "cot",
+   "fan",
+   "eye",
+   "ill"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.09,
+  "number": 131
+ },
+ "2027-03-12": {
+  "prompts": [
+   "job",
+   "accessory",
+   "bug",
+   "plug_in",
+   "school_supply"
+  ],
+  "par": 585,
+  "route": [
+   "bee",
+   "hat",
+   "coo",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.085,
+  "number": 132
+ },
+ "2027-03-13": {
+  "prompts": [
+   "has_wheels",
+   "clothing",
+   "flies",
+   "tree",
+   "school_supply"
+  ],
+  "par": 585,
+  "route": [
+   "ash",
+   "jeep",
+   "boot"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.075,
+  "number": 133
+ },
+ "2027-03-14": {
+  "prompts": [
+   "flower_plant",
+   "colour",
+   "nature_place",
+   "footwear",
+   "pet"
+  ],
+  "par": 575,
+  "route": [
+   "moss",
+   "heel",
+   "bay",
+   "pup"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.12,
+  "number": 134
+ },
+ "2027-03-15": {
+  "prompts": [
+   "bathroom",
+   "game",
+   "country",
+   "tree",
+   "farm_animal"
+  ],
+  "par": 575,
+  "route": [
+   "pig",
+   "elm",
+   "fan",
+   "u s"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.045,
+  "number": 135
+ },
+ "2027-03-16": {
+  "prompts": [
+   "instrument",
+   "round_thing",
+   "hot_thing",
+   "drink",
+   "nature_place"
+  ],
+  "par": 585,
+  "route": [
+   "gong",
+   "tea",
+   "hill"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.15,
+  "number": 136
+ },
+ "2027-03-17": {
+  "prompts": [
+   "kitchen",
+   "camping",
+   "vehicle",
+   "footwear",
+   "vegetable"
+  ],
+  "par": 585,
+  "route": [
+   "pepper",
+   "kayak",
+   "boot"
+  ],
+  "routes": 200,
+  "finishRate": 0.95,
+  "cleanRate": 0.14,
+  "number": 137
+ },
+ "2027-03-18": {
+  "prompts": [
+   "school_supply",
+   "game",
+   "food",
+   "farm_animal",
+   "accessory"
+  ],
+  "par": 590,
+  "route": [
+   "pig",
+   "hat",
+   "eel"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.135,
+  "number": 138
+ },
+ "2027-03-19": {
+  "prompts": [
+   "garden",
+   "sports_gear",
+   "body_part",
+   "snack",
+   "breakfast"
+  ],
+  "par": 575,
+  "route": [
+   "banana",
+   "eye",
+   "jill",
+   "dog"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.15,
+  "number": 139
+ },
+ "2027-03-20": {
+  "prompts": [
+   "toy",
+   "pizza_topping",
+   "animal",
+   "beach_item",
+   "dessert"
+  ],
+  "par": 575,
+  "route": [
+   "tart",
+   "dog",
+   "wii",
+   "beef"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.05,
+  "number": 140
+ },
+ "2027-03-21": {
+  "prompts": [
+   "job",
+   "room",
+   "camping",
+   "party",
+   "zoo_animal"
+  ],
+  "par": 575,
+  "route": [
+   "loo",
+   "cub",
+   "tent",
+   "imam"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.11,
+  "number": 141
+ },
+ "2027-03-22": {
+  "prompts": [
+   "pet",
+   "plug_in",
+   "hobby",
+   "weather",
+   "bird"
+  ],
+  "par": 580,
+  "route": [
+   "lal",
+   "pup",
+   "ice",
+   "xbox"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.14,
+  "number": 142
+ },
+ "2027-03-23": {
+  "prompts": [
+   "tool",
+   "footwear",
+   "has_wheels",
+   "city",
+   "flies"
+  ],
+  "par": 570,
+  "route": [
+   "van",
+   "heel",
+   "bit",
+   "mor"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.03,
+  "number": 143
+ },
+ "2027-03-24": {
+  "prompts": [
+   "party",
+   "bug",
+   "room",
+   "round_thing",
+   "instrument"
+  ],
+  "par": 580,
+  "route": [
+   "bee",
+   "mic",
+   "loo",
+   "tart"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.165,
+  "number": 144
+ },
+ "2027-03-25": {
+  "prompts": [
+   "breakfast",
+   "feeling",
+   "tree",
+   "clothing",
+   "red_thing"
+  ],
+  "par": 580,
+  "route": [
+   "fir",
+   "jam",
+   "tee",
+   "so so"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.115,
+  "number": 145
+ },
+ "2027-03-26": {
+  "prompts": [
+   "pizza_topping",
+   "room",
+   "hot_thing",
+   "vegetable",
+   "farm_animal"
+  ],
+  "par": 590,
+  "route": [
+   "ox",
+   "hall",
+   "pepper"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.38,
+  "number": 146
+ },
+ "2027-03-27": {
+  "prompts": [
+   "vegetable",
+   "bathroom",
+   "sports_gear",
+   "pet",
+   "flies"
+  ],
+  "par": 580,
+  "route": [
+   "onion",
+   "pup",
+   "mat",
+   "bee"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.175,
+  "number": 147
+ },
+ "2027-03-28": {
+  "prompts": [
+   "toy",
+   "colour",
+   "animal",
+   "drink",
+   "instrument"
+  ],
+  "par": 590,
+  "route": [
+   "jug",
+   "cocoa",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.18,
+  "number": 148
+ },
+ "2027-03-29": {
+  "prompts": [
+   "clothing",
+   "game",
+   "snack",
+   "camping",
+   "nature_place"
+  ],
+  "par": 575,
+  "route": [
+   "reef",
+   "hat",
+   "dip",
+   "yo yo"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.075,
+  "number": 149
+ },
+ "2027-03-30": {
+  "prompts": [
+   "zoo_animal",
+   "dessert",
+   "place_in_town",
+   "vehicle",
+   "farm_animal"
+  ],
+  "par": 575,
+  "route": [
+   "emu",
+   "tart",
+   "civic",
+   "zoo"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.06,
+  "number": 150
+ },
+ "2027-03-31": {
+  "prompts": [
+   "winter",
+   "kitchen",
+   "instrument",
+   "tree",
+   "room"
+  ],
+  "par": 580,
+  "route": [
+   "jug",
+   "holly",
+   "den"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.15,
+  "number": 151
+ },
+ "2027-04-01": {
+  "prompts": [
+   "red_thing",
+   "beach_item",
+   "summer",
+   "hobby",
+   "flower_plant"
+  ],
+  "par": 585,
+  "route": [
+   "poppy",
+   "tent",
+   "asl"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.19,
+  "number": 152
+ },
+ "2027-04-02": {
+  "prompts": [
+   "sport",
+   "tool",
+   "body_part",
+   "garden",
+   "bug"
+  ],
+  "par": 575,
+  "route": [
+   "bee",
+   "mop",
+   "iris",
+   "ncaa"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.175,
+  "number": 153
+ },
+ "2027-04-03": {
+  "prompts": [
+   "round_thing",
+   "instrument",
+   "vehicle",
+   "pizza_topping",
+   "city"
+  ],
+  "par": 590,
+  "route": [
+   "mic",
+   "egg",
+   "van"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.115,
+  "number": 154
+ },
+ "2027-04-04": {
+  "prompts": [
+   "weather",
+   "has_wheels",
+   "feeling",
+   "accessory",
+   "bathroom"
+  ],
+  "par": 585,
+  "route": [
+   "bin",
+   "cap",
+   "hot"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.205,
+  "number": 155
+ },
+ "2027-04-05": {
+  "prompts": [
+   "body_part",
+   "flower_plant",
+   "headwear",
+   "flies",
+   "cold_thing"
+  ],
+  "par": 580,
+  "route": [
+   "hat",
+   "iris",
+   "pop",
+   "bee"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.085,
+  "number": 156
+ },
+ "2027-04-06": {
+  "prompts": [
+   "school_supply",
+   "job",
+   "party",
+   "animal",
+   "sport"
+  ],
+  "par": 575,
+  "route": [
+   "book",
+   "wwe",
+   "nun",
+   "stag"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.07,
+  "number": 157
+ },
+ "2027-04-07": {
+  "prompts": [
+   "winter",
+   "cold_thing",
+   "toy",
+   "condiment",
+   "kitchen"
+  ],
+  "par": 590,
+  "route": [
+   "salt",
+   "wii",
+   "pop"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.11,
+  "number": 158
+ },
+ "2027-04-08": {
+  "prompts": [
+   "hobby",
+   "camping",
+   "animal",
+   "hot_thing",
+   "city"
+  ],
+  "par": 585,
+  "route": [
+   "map",
+   "tub",
+   "cod"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.205,
+  "number": 159
+ },
+ "2027-04-09": {
+  "prompts": [
+   "round_thing",
+   "snack",
+   "condiment",
+   "accessory",
+   "headwear"
+  ],
+  "par": 590,
+  "route": [
+   "hat",
+   "dip",
+   "egg"
+  ],
+  "routes": 200,
+  "finishRate": 0.975,
+  "cleanRate": 0.14,
+  "number": 160
+ },
+ "2027-04-10": {
+  "prompts": [
+   "place_in_town",
+   "food",
+   "sea_creature",
+   "bird",
+   "party"
+  ],
+  "par": 590,
+  "route": [
+   "gull",
+   "dip",
+   "zoo"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.265,
+  "number": 161
+ },
+ "2027-04-11": {
+  "prompts": [
+   "school_supply",
+   "nature_place",
+   "hobby",
+   "farm_animal",
+   "tool"
+  ],
+  "par": 570,
+  "route": [
+   "bee",
+   "lock",
+   "pass",
+   "urdu"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.05,
+  "number": 162
+ },
+ "2027-04-12": {
+  "prompts": [
+   "bathroom",
+   "breakfast",
+   "plug_in",
+   "has_wheels",
+   "weather"
+  ],
+  "par": 580,
+  "route": [
+   "egg",
+   "bin",
+   "watch"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.115,
+  "number": 163
+ },
+ "2027-04-13": {
+  "prompts": [
+   "dessert",
+   "zoo_animal",
+   "vehicle",
+   "clothing",
+   "flies"
+  ],
+  "par": 580,
+  "route": [
+   "owl",
+   "pie",
+   "tank"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.09,
+  "number": 164
+ },
+ "2027-04-14": {
+  "prompts": [
+   "footwear",
+   "feeling",
+   "bug",
+   "sports_gear",
+   "cold_thing"
+  ],
+  "par": 580,
+  "route": [
+   "cocoon",
+   "skates",
+   "ill"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.065,
+  "number": 165
+ },
+ "2027-04-15": {
+  "prompts": [
+   "garden",
+   "summer",
+   "pizza_topping",
+   "job",
+   "condiment"
+  ],
+  "par": 585,
+  "route": [
+   "pepper",
+   "coo",
+   "lawn"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.095,
+  "number": 166
+ },
+ "2027-04-16": {
+  "prompts": [
+   "furniture",
+   "kitchen",
+   "clothing",
+   "sea_creature",
+   "red_thing"
+  ],
+  "par": 575,
+  "route": [
+   "crab",
+   "stool",
+   "pin"
+  ],
+  "routes": 200,
+  "finishRate": 0.97,
+  "cleanRate": 0.05,
+  "number": 167
+ },
+ "2027-04-17": {
+  "prompts": [
+   "pet",
+   "condiment",
+   "garden",
+   "accessory",
+   "breakfast"
+  ],
+  "par": 585,
+  "route": [
+   "jam",
+   "pin",
+   "dog"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.16,
+  "number": 168
+ },
+ "2027-04-18": {
+  "prompts": [
+   "body_part",
+   "sea_creature",
+   "toy",
+   "instrument",
+   "bird"
+  ],
+  "par": 580,
+  "route": [
+   "gull",
+   "bass",
+   "wii",
+   "eye"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.125,
+  "number": 169
+ },
+ "2027-04-19": {
+  "prompts": [
+   "condiment",
+   "drink",
+   "party",
+   "summer",
+   "feeling"
+  ],
+  "par": 590,
+  "route": [
+   "dip",
+   "tan",
+   "off"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.175,
+  "number": 170
+ },
+ "2027-04-20": {
+  "prompts": [
+   "tree",
+   "room",
+   "colour",
+   "round_thing",
+   "pet"
+  ],
+  "par": 585,
+  "route": [
+   "ash",
+   "loo",
+   "pup",
+   "egg"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.12,
+  "number": 171
+ },
+ "2027-04-21": {
+  "prompts": [
+   "body_part",
+   "farm_animal",
+   "food",
+   "hobby",
+   "clothing"
+  ],
+  "par": 585,
+  "route": [
+   "pig",
+   "cod",
+   "heel"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.21,
+  "number": 172
+ },
+ "2027-04-22": {
+  "prompts": [
+   "garden",
+   "furniture",
+   "headwear",
+   "place_in_town",
+   "vehicle"
+  ],
+  "par": 570,
+  "route": [
+   "hat",
+   "bed",
+   "pool",
+   "mini"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.075,
+  "number": 173
+ },
+ "2027-04-23": {
+  "prompts": [
+   "hobby",
+   "bird",
+   "beach_item",
+   "feeling",
+   "city"
+  ],
+  "par": 575,
+  "route": [
+   "kite",
+   "lol",
+   "sus",
+   "amman"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.09,
+  "number": 174
+ },
+ "2027-04-24": {
+  "prompts": [
+   "nature_place",
+   "red_thing",
+   "camping",
+   "toy",
+   "breakfast"
+  ],
+  "par": 585,
+  "route": [
+   "jam",
+   "hill",
+   "tent"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.1,
+  "number": 175
+ },
+ "2027-04-25": {
+  "prompts": [
+   "weather",
+   "footwear",
+   "job",
+   "winter",
+   "garden"
+  ],
+  "par": 575,
+  "route": [
+   "boot",
+   "deer",
+   "nun",
+   "fall"
+  ],
+  "routes": 200,
+  "finishRate": 0.965,
+  "cleanRate": 0.06,
+  "number": 176
+ },
+ "2027-04-26": {
+  "prompts": [
+   "vegetable",
+   "place_in_town",
+   "toy",
+   "farm_animal",
+   "flies"
+  ],
+  "par": 585,
+  "route": [
+   "bee",
+   "yam",
+   "wii",
+   "zoo"
+  ],
+  "routes": 200,
+  "finishRate": 1.0,
+  "cleanRate": 0.095,
+  "number": 177
+ },
+ "2027-04-27": {
+  "prompts": [
+   "bird",
+   "plug_in",
+   "has_wheels",
+   "game",
+   "flower_plant"
+  ],
+  "par": 580,
+  "route": [
+   "lal",
+   "mum",
+   "e bike",
+   "yo yo"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.07,
+  "number": 178
+ },
+ "2027-04-28": {
+  "prompts": [
+   "hot_thing",
+   "accessory",
+   "school_supply",
+   "country",
+   "weather"
+  ],
+  "par": 585,
+  "route": [
+   "hat",
+   "fiji",
+   "sun"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.11,
+  "number": 179
+ },
+ "2027-04-29": {
+  "prompts": [
+   "sea_creature",
+   "kitchen",
+   "city",
+   "zoo_animal",
+   "room"
+  ],
+  "par": 580,
+  "route": [
+   "tub",
+   "seal",
+   "food"
+  ],
+  "routes": 200,
+  "finishRate": 0.99,
+  "cleanRate": 0.095,
+  "number": 180
+ },
+ "2027-04-30": {
+  "prompts": [
+   "condiment",
+   "clothing",
+   "flies",
+   "party",
+   "dessert"
+  ],
+  "par": 580,
+  "route": [
+   "jelly",
+   "ana",
+   "pop",
+   "tutu"
+  ],
+  "routes": 200,
+  "finishRate": 0.955,
+  "cleanRate": 0.1,
+  "number": 181
+ },
+ "2027-05-01": {
+  "prompts": [
+   "snack",
+   "colour",
+   "bird",
+   "instrument",
+   "farm_animal"
+  ],
+  "par": 570,
+  "route": [
+   "hen",
+   "cocoa",
+   "jug",
+   "dip"
+  ],
+  "routes": 200,
+  "finishRate": 0.995,
+  "cleanRate": 0.1,
+  "number": 182
+ }
+}

@@ -1,0 +1,1027 @@
+{
+ "_about": "Answer shapes. A phrase that starts or ends with one of these words fits the listed categories, as long as every other word in it is a real word. 'inherit' words pass on whatever the rest of the phrase already fits ('chess set' is a game because chess is).",
+ "prefix": {
+  "toy": [
+   "toy"
+  ],
+  "play": [
+   "toy"
+  ],
+  "stuffed": [
+   "toy"
+  ],
+  "plush": [
+   "toy"
+  ],
+  "pretend": [
+   "toy"
+  ],
+  "wind up": [
+   "toy"
+  ],
+  "feeling": [
+   "feeling"
+  ],
+  "feelin": [
+   "feeling"
+  ],
+  "kinda": [
+   "feeling"
+  ],
+  "red": [
+   "red_thing"
+  ],
+  "cherry red": [
+   "red_thing"
+  ],
+  "bright red": [
+   "red_thing"
+  ],
+  "dark red": [
+   "red_thing"
+  ],
+  "cold": [
+   "cold_thing"
+  ],
+  "frozen": [
+   "cold_thing"
+  ],
+  "iced": [
+   "cold_thing"
+  ],
+  "ice": [
+   "cold_thing"
+  ],
+  "icy": [
+   "cold_thing"
+  ],
+  "chilled": [
+   "cold_thing"
+  ],
+  "freezing": [
+   "cold_thing"
+  ],
+  "frosty": [
+   "cold_thing"
+  ],
+  "snowy": [
+   "cold_thing"
+  ],
+  "ice cold": [
+   "cold_thing"
+  ],
+  "hot": [
+   "hot_thing"
+  ],
+  "spicy": [
+   "hot_thing"
+  ],
+  "burning": [
+   "hot_thing"
+  ],
+  "boiling": [
+   "hot_thing"
+  ],
+  "scalding": [
+   "hot_thing"
+  ],
+  "heated": [
+   "hot_thing"
+  ],
+  "fiery": [
+   "hot_thing"
+  ],
+  "flaming": [
+   "hot_thing"
+  ],
+  "flamin": [
+   "hot_thing"
+  ],
+  "steaming": [
+   "hot_thing"
+  ],
+  "piping hot": [
+   "hot_thing"
+  ],
+  "red hot": [
+   "hot_thing",
+   "red_thing"
+  ],
+  "sizzling": [
+   "hot_thing"
+  ],
+  "roasting": [
+   "hot_thing"
+  ],
+  "playing": [
+   "hobby"
+  ],
+  "watching": [
+   "hobby"
+  ],
+  "going to": [
+   "hobby"
+  ],
+  "going for": [
+   "hobby"
+  ],
+  "going": [
+   "hobby"
+  ],
+  "making": [
+   "hobby"
+  ],
+  "collecting": [
+   "hobby"
+  ],
+  "reading": [
+   "hobby"
+  ],
+  "writing": [
+   "hobby"
+  ],
+  "listening to": [
+   "hobby"
+  ],
+  "taking": [
+   "hobby"
+  ],
+  "doing": [
+   "hobby"
+  ],
+  "building": [
+   "hobby"
+  ],
+  "learning": [
+   "hobby"
+  ],
+  "practicing": [
+   "hobby"
+  ],
+  "practising": [
+   "hobby"
+  ],
+  "hanging out": [
+   "hobby"
+  ],
+  "visiting": [
+   "hobby"
+  ],
+  "travelling": [
+   "hobby"
+  ],
+  "traveling": [
+   "hobby"
+  ],
+  "baking": [
+   "hobby"
+  ],
+  "cooking": [
+   "hobby"
+  ],
+  "growing": [
+   "hobby"
+  ],
+  "fixing": [
+   "hobby"
+  ],
+  "restoring": [
+   "hobby"
+  ],
+  "editing": [
+   "hobby"
+  ],
+  "flipping": [
+   "hobby"
+  ],
+  "trading": [
+   "hobby"
+  ],
+  "drawing": [
+   "hobby"
+  ],
+  "painting": [
+   "hobby"
+  ],
+  "lake": [
+   "nature_place"
+  ],
+  "mount": [
+   "nature_place"
+  ],
+  "mt": [
+   "nature_place"
+  ],
+  "river": [
+   "nature_place"
+  ],
+  "isle of": [
+   "nature_place"
+  ],
+  "cape": [
+   "nature_place"
+  ],
+  "bay of": [
+   "nature_place"
+  ],
+  "gulf of": [
+   "nature_place"
+  ],
+  "sea of": [
+   "nature_place"
+  ],
+  "mountains of": [
+   "nature_place"
+  ]
+ },
+ "suffix": {
+  "party": [
+   "party"
+  ],
+  "bash": [
+   "party"
+  ],
+  "reception": [
+   "party"
+  ],
+  "celebration": [
+   "party"
+  ],
+  "get together": [
+   "party"
+  ],
+  "potluck": [
+   "party"
+  ],
+  "cookout": [
+   "party"
+  ],
+  "social": [
+   "party"
+  ],
+  "gala": [
+   "party"
+  ],
+  "night": [
+   "hobby",
+   "party"
+  ],
+  "nights": [
+   "hobby",
+   "party"
+  ],
+  "lake": [
+   "nature_place"
+  ],
+  "river": [
+   "nature_place"
+  ],
+  "falls": [
+   "nature_place"
+  ],
+  "park": [
+   "nature_place",
+   "place_in_town"
+  ],
+  "mountains": [
+   "nature_place"
+  ],
+  "mountain": [
+   "nature_place"
+  ],
+  "beach": [
+   "nature_place"
+  ],
+  "island": [
+   "nature_place"
+  ],
+  "islands": [
+   "nature_place"
+  ],
+  "bay": [
+   "nature_place"
+  ],
+  "valley": [
+   "nature_place"
+  ],
+  "canyon": [
+   "nature_place"
+  ],
+  "desert": [
+   "nature_place"
+  ],
+  "forest": [
+   "nature_place"
+  ],
+  "woods": [
+   "nature_place"
+  ],
+  "peninsula": [
+   "nature_place"
+  ],
+  "creek": [
+   "nature_place"
+  ],
+  "glacier": [
+   "nature_place"
+  ],
+  "ocean": [
+   "nature_place"
+  ],
+  "sea": [
+   "nature_place"
+  ],
+  "gorge": [
+   "nature_place"
+  ],
+  "cliffs": [
+   "nature_place"
+  ],
+  "cove": [
+   "nature_place"
+  ],
+  "lagoon": [
+   "nature_place"
+  ],
+  "rainforest": [
+   "nature_place"
+  ],
+  "reef": [
+   "nature_place"
+  ],
+  "escarpment": [
+   "nature_place"
+  ],
+  "provincial park": [
+   "nature_place"
+  ],
+  "national park": [
+   "nature_place"
+  ],
+  "conservation area": [
+   "nature_place"
+  ],
+  "trail": [
+   "nature_place"
+  ],
+  "manager": [
+   "job"
+  ],
+  "technician": [
+   "job"
+  ],
+  "tech": [
+   "job"
+  ],
+  "assistant": [
+   "job"
+  ],
+  "worker": [
+   "job"
+  ],
+  "driver": [
+   "job"
+  ],
+  "operator": [
+   "job"
+  ],
+  "clerk": [
+   "job"
+  ],
+  "supervisor": [
+   "job"
+  ],
+  "engineer": [
+   "job"
+  ],
+  "developer": [
+   "job"
+  ],
+  "designer": [
+   "job"
+  ],
+  "analyst": [
+   "job"
+  ],
+  "specialist": [
+   "job"
+  ],
+  "consultant": [
+   "job"
+  ],
+  "teacher": [
+   "job"
+  ],
+  "coach": [
+   "job"
+  ],
+  "officer": [
+   "job"
+  ],
+  "inspector": [
+   "job"
+  ],
+  "director": [
+   "job"
+  ],
+  "coordinator": [
+   "job"
+  ],
+  "administrator": [
+   "job"
+  ],
+  "representative": [
+   "job"
+  ],
+  "rep": [
+   "job"
+  ],
+  "agent": [
+   "job"
+  ],
+  "attendant": [
+   "job"
+  ],
+  "nurse": [
+   "job"
+  ],
+  "doctor": [
+   "job"
+  ],
+  "therapist": [
+   "job"
+  ],
+  "instructor": [
+   "job"
+  ],
+  "trainer": [
+   "job"
+  ],
+  "cleaner": [
+   "job"
+  ],
+  "sitter": [
+   "job"
+  ],
+  "keeper": [
+   "job"
+  ],
+  "groomer": [
+   "job"
+  ],
+  "walker": [
+   "job"
+  ],
+  "writer": [
+   "job"
+  ],
+  "editor": [
+   "job"
+  ],
+  "planner": [
+   "job"
+  ],
+  "broker": [
+   "job"
+  ],
+  "advisor": [
+   "job"
+  ],
+  "adviser": [
+   "job"
+  ],
+  "mechanic": [
+   "job"
+  ],
+  "installer": [
+   "job"
+  ],
+  "labourer": [
+   "job"
+  ],
+  "laborer": [
+   "job"
+  ],
+  "chef": [
+   "job"
+  ],
+  "cook": [
+   "job"
+  ],
+  "baker": [
+   "job"
+  ],
+  "pilot": [
+   "job"
+  ],
+  "foreman": [
+   "job"
+  ],
+  "store": [
+   "place_in_town"
+  ],
+  "shop": [
+   "place_in_town"
+  ],
+  "restaurant": [
+   "place_in_town"
+  ],
+  "centre": [
+   "place_in_town"
+  ],
+  "center": [
+   "place_in_town"
+  ],
+  "mall": [
+   "place_in_town"
+  ],
+  "office": [
+   "place_in_town"
+  ],
+  "clinic": [
+   "place_in_town"
+  ],
+  "station": [
+   "place_in_town"
+  ],
+  "market": [
+   "place_in_town"
+  ],
+  "plaza": [
+   "place_in_town"
+  ],
+  "outlet": [
+   "place_in_town"
+  ],
+  "outlets": [
+   "place_in_town"
+  ],
+  "depot": [
+   "place_in_town"
+  ],
+  "warehouse": [
+   "place_in_town"
+  ],
+  "salon": [
+   "place_in_town"
+  ],
+  "spa": [
+   "place_in_town"
+  ],
+  "gym": [
+   "place_in_town"
+  ],
+  "cafe": [
+   "place_in_town"
+  ],
+  "pub": [
+   "place_in_town"
+  ],
+  "diner": [
+   "place_in_town"
+  ],
+  "theatre": [
+   "place_in_town"
+  ],
+  "theater": [
+   "place_in_town"
+  ],
+  "cinema": [
+   "place_in_town"
+  ],
+  "cinemas": [
+   "place_in_town"
+  ],
+  "arena": [
+   "place_in_town"
+  ],
+  "stadium": [
+   "place_in_town"
+  ],
+  "library": [
+   "place_in_town"
+  ],
+  "school": [
+   "place_in_town"
+  ],
+  "hospital": [
+   "place_in_town"
+  ],
+  "hall": [
+   "place_in_town"
+  ],
+  "garden": [
+   "garden"
+  ],
+  "warning": [
+   "weather"
+  ],
+  "advisory": [
+   "weather"
+  ],
+  "storm": [
+   "weather"
+  ],
+  "skies": [
+   "weather"
+  ],
+  "winds": [
+   "weather"
+  ],
+  "showers": [
+   "weather"
+  ],
+  "ball": [
+   "round_thing"
+  ],
+  "balls": [
+   "round_thing"
+  ],
+  "wheel": [
+   "round_thing"
+  ],
+  "ring": [
+   "round_thing"
+  ],
+  "plate": [
+   "round_thing"
+  ],
+  "bowl": [
+   "round_thing"
+  ],
+  "coin": [
+   "round_thing"
+  ],
+  "globe": [
+   "round_thing"
+  ],
+  "disc": [
+   "round_thing"
+  ],
+  "disk": [
+   "round_thing"
+  ],
+  "button": [
+   "round_thing"
+  ],
+  "hoop": [
+   "round_thing"
+  ],
+  "orb": [
+   "round_thing"
+  ],
+  "sphere": [
+   "round_thing"
+  ],
+  "circle": [
+   "round_thing"
+  ],
+  "donut": [
+   "round_thing"
+  ],
+  "bagel": [
+   "round_thing"
+  ],
+  "pizza": [
+   "round_thing"
+  ],
+  "cake": [
+   "round_thing"
+  ],
+  "pie": [
+   "round_thing"
+  ],
+  "cookie": [
+   "round_thing"
+  ],
+  "tire": [
+   "round_thing"
+  ],
+  "tyre": [
+   "round_thing"
+  ],
+  "pearl": [
+   "round_thing"
+  ],
+  "game": [
+   "game"
+  ],
+  "games": [
+   "game"
+  ],
+  "tree": [
+   "tree"
+  ],
+  "trees": [
+   "tree"
+  ],
+  "plant": [
+   "flower_plant"
+  ],
+  "plants": [
+   "flower_plant"
+  ],
+  "flower": [
+   "flower_plant"
+  ],
+  "flowers": [
+   "flower_plant"
+  ],
+  "bush": [
+   "flower_plant"
+  ],
+  "shrub": [
+   "flower_plant"
+  ],
+  "succulent": [
+   "flower_plant"
+  ],
+  "cactus": [
+   "flower_plant"
+  ],
+  "sauce": [
+   "condiment"
+  ],
+  "seasoning": [
+   "condiment"
+  ],
+  "dip": [
+   "condiment"
+  ],
+  "dressing": [
+   "condiment"
+  ],
+  "mayo": [
+   "condiment"
+  ],
+  "salsa": [
+   "condiment"
+  ],
+  "chutney": [
+   "condiment"
+  ],
+  "pickle": [
+   "condiment"
+  ],
+  "relish": [
+   "condiment"
+  ],
+  "drink": [
+   "drink"
+  ],
+  "smoothie": [
+   "drink"
+  ],
+  "shake": [
+   "drink"
+  ],
+  "juice": [
+   "drink"
+  ],
+  "tea": [
+   "drink"
+  ],
+  "latte": [
+   "drink"
+  ],
+  "soda": [
+   "drink"
+  ],
+  "float": [
+   "drink"
+  ],
+  "lemonade": [
+   "drink"
+  ],
+  "milkshake": [
+   "drink"
+  ],
+  "cocktail": [
+   "drink"
+  ],
+  "punch": [
+   "drink"
+  ],
+  "toy": [
+   "toy"
+  ],
+  "toys": [
+   "toy"
+  ],
+  "doll": [
+   "toy"
+  ],
+  "dolls": [
+   "toy"
+  ],
+  "kit": [
+   "toy"
+  ],
+  "plushie": [
+   "toy"
+  ],
+  "car": [
+   "vehicle"
+  ],
+  "truck": [
+   "vehicle"
+  ],
+  "van": [
+   "vehicle"
+  ],
+  "bus": [
+   "vehicle"
+  ],
+  "bike": [
+   "vehicle"
+  ],
+  "boat": [
+   "vehicle"
+  ],
+  "trailer": [
+   "vehicle"
+  ],
+  "camper": [
+   "vehicle"
+  ],
+  "motorhome": [
+   "vehicle"
+  ],
+  "loader": [
+   "vehicle"
+  ],
+  "machine": [
+   "plug_in"
+  ],
+  "maker": [
+   "plug_in"
+  ],
+  "charger": [
+   "plug_in"
+  ],
+  "cable": [
+   "plug_in"
+  ],
+  "cord": [
+   "plug_in"
+  ],
+  "heater": [
+   "plug_in",
+   "hot_thing"
+  ],
+  "speaker": [
+   "plug_in"
+  ],
+  "boots": [
+   "footwear"
+  ],
+  "shoes": [
+   "footwear"
+  ],
+  "sneakers": [
+   "footwear"
+  ],
+  "sandals": [
+   "footwear"
+  ],
+  "socks": [
+   "footwear"
+  ],
+  "hat": [
+   "headwear"
+  ],
+  "cap": [
+   "headwear"
+  ],
+  "beanie": [
+   "headwear"
+  ],
+  "toque": [
+   "headwear"
+  ],
+  "helmet": [
+   "headwear"
+  ],
+  "necklace": [
+   "accessory"
+  ],
+  "pendant": [
+   "accessory"
+  ],
+  "earrings": [
+   "accessory"
+  ],
+  "bracelet": [
+   "accessory"
+  ],
+  "jacket": [
+   "clothing"
+  ],
+  "coat": [
+   "clothing"
+  ],
+  "dress": [
+   "clothing"
+  ],
+  "suit": [
+   "clothing"
+  ],
+  "sweater": [
+   "clothing"
+  ],
+  "airlines": [
+   "flies"
+  ],
+  "airways": [
+   "flies"
+  ],
+  "festival": [
+   "summer"
+  ],
+  "parade": [
+   "summer"
+  ],
+  "equipment": [
+   "sports_gear"
+  ],
+  "gear": [
+   "sports_gear"
+  ]
+ },
+ "inherit": [
+  "set",
+  "sets",
+  "kit",
+  "game",
+  "games",
+  "junior",
+  "jr",
+  "deal",
+  "extra",
+  "deluxe",
+  "edition",
+  "board",
+  "deck",
+  "cards",
+  "pieces",
+  "match",
+  "race",
+  "racing",
+  "tournament",
+  "meet",
+  "league",
+  "practice",
+  "lessons",
+  "class",
+  "classes",
+  "club",
+  "puppy",
+  "puppies",
+  "kitten",
+  "kittens",
+  "slice",
+  "bar",
+  "bars",
+  "box",
+  "pack",
+  "shell",
+  "mix",
+  "season",
+  "picking",
+  "stand",
+  "truck",
+  "challenge",
+  "boil",
+  "roast",
+  "fry",
+  "tree",
+  "plant",
+  "day",
+  "days",
+  "time",
+  "nights",
+  "mornings",
+  "morning",
+  "weather",
+  "on",
+  "ontario",
+  "qc",
+  "quebec",
+  "bc",
+  "ab",
+  "alberta",
+  "mb",
+  "ns",
+  "pakistan",
+  "india",
+  "canada",
+  "usa",
+  "us",
+  "uk",
+  "region",
+  "toys",
+  "plush",
+  "plushie",
+  "equipment"
+ ]
+}

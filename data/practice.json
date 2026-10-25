@@ -1,0 +1,57 @@
+[
+ {
+  "prompts": [
+   "farm_animal",
+   "footwear",
+   "winter",
+   "pizza_topping",
+   "sports_gear"
+  ],
+  "par": 575,
+  "route": [
+   "ox",
+   "heel",
+   "yam",
+   "skis"
+  ],
+  "routes": 200,
+  "finishRate": 0.98,
+  "cleanRate": 0.1
+ },
+ {
+  "prompts": [
+   "room",
+   "party",
+   "camping",
+   "headwear",
+   "bathroom"
+  ],
+  "par": 585,
+  "route": [
+   "cap",
+   "tub",
+   "food"
+  ],
+  "routes": 200,
+  "finishRate": 0.96,
+  "cleanRate": 0.095
+ },
+ {
+  "prompts": [
+   "sports_gear",
+   "summer",
+   "plug_in",
+   "game",
+   "place_in_town"
+  ],
+  "par": 595,
+  "route": [
+   "pool",
+   "tee",
+   "wii"
+  ],
+  "routes": 200,
+  "finishRate": 0.985,
+  "cleanRate": 0.075
+ }
+]
